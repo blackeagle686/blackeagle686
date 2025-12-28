@@ -64,8 +64,8 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 <!-- Vector Databases -->
-![Chroma](https://img.shields.io/badge/Chroma-FF6F61?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6F61?style=for-the-badge&logo=database&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=database&logoColor=white)
 
 ### Data Science & Visualization
 
