@@ -86,44 +86,51 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> What I Bring to the Table
+## What I Bring to the Table
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ### Backend Excellence
-- **API Development** → RESTful & GraphQL APIs
-- **Architecture** → Microservices & Monoliths
-- **Performance** → Query optimization & caching
-- **Security** → Authentication & authorization
-- **Testing** → Unit & integration test
+| Skill | Details |
+|-------|---------|
+| **API Development** | RESTful & GraphQL APIs |
+| **Architecture** | Microservices & Monoliths |
+| **Performance** | Query optimization & caching |
+| **Security** | Authentication & authorization |
+| **Testing** | Unit & integration tests |
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ### AI Engineering
-- **Model Development** → Training & fine-tuning
-- **Deployment** → Production-ready ML systems
-- **MLOps** → CI/CD pipelines for ML
-- **Specialties** → NLP & Computer Vision
-- **Tools** → TensorFlow, PyTorch
+| Skill | Details |
+|-------|---------|
+| **Model Development** | Training & fine-tuning |
+| **Deployment** | Production-ready ML systems |
+| **MLOps** | CI/CD pipelines for ML |
+| **Specialties** | NLP & Computer Vision |
+| **Tools** | TensorFlow, PyTorch |
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### Database Mastery
-- **Design** → Schema design & normalization
-- **Optimization** → Query performance tuning
-- **Scaling** → Replication & sharding strategies
-- **Technologies** → PostgreSQL, MySQL, Redis, Vector Databases
-- **ORMs** → Django ORM, SQLAlchemy
+| Skill | Details |
+|-------|---------|
+| **Design** | Schema design & normalization |
+| **Optimization** | Query performance tuning |
+| **Scaling** | Replication & sharding strategies |
+| **Technologies** | PostgreSQL, MySQL, Redis, Vector Databases |
+| **ORMs** | Django ORM, SQLAlchemy |
 
 </td>
 </tr>
 </table>
+
 
 ---
 
