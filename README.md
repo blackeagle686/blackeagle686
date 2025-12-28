@@ -54,16 +54,11 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 
 ### Databases & Vector DBs
 
-<!-- SQL Databases -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-<!-- NoSQL / Cache -->
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-<!-- Vector Databases -->
 ![Chroma](https://img.shields.io/badge/Chroma-FF6F61?style=for-the-badge&logo=database&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=database&logoColor=white)
 
@@ -86,50 +81,47 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 
 ---
 
-## What I Bring to the Table
+<h2 style="border-bottom:2px solid #58A6FF; padding-bottom:5px;">What I Bring to the Table</h2>
 
-<table>
-<tr>
-<td width="48%" valign="top">
+<div style="display:flex; gap:20px; flex-wrap: wrap;">
 
-### Backend Excellence
-| Skill | Details |
-|-------|---------|
-| **API Development** | RESTful & GraphQL APIs |
-| **Architecture** | Microservices & Monoliths |
-| **Performance** | Query optimization & caching |
-| **Security** | Authentication & authorization |
-| **Testing** | Unit & integration tests |
+  <!-- Backend Excellence -->
+  <div style="flex:1; min-width:250px; background: linear-gradient(135deg, #f0f4ff, #dce6ff); padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+    <h3 style="color:#1f4287;">Backend Excellence</h3>
+    <ul style="list-style:none; padding-left:0;">
+      <li><strong>API Development:</strong> RESTful & GraphQL APIs</li>
+      <li><strong>Architecture:</strong> Microservices & Monoliths</li>
+      <li><strong>Performance:</strong> Query optimization & caching</li>
+      <li><strong>Security:</strong> Authentication & authorization</li>
+      <li><strong>Testing:</strong> Unit & integration tests</li>
+    </ul>
+  </div>
 
-</td>
-<td width="48%" valign="top">
+  <!-- AI Engineering -->
+  <div style="flex:1; min-width:250px; background: linear-gradient(135deg, #fff4f0, #ffe6d6); padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+    <h3 style="color:#b14a28;">AI Engineering</h3>
+    <ul style="list-style:none; padding-left:0;">
+      <li><strong>Model Development:</strong> Training & fine-tuning</li>
+      <li><strong>Deployment:</strong> Production-ready ML systems</li>
+      <li><strong>MLOps:</strong> CI/CD pipelines for ML</li>
+      <li><strong>Specialties:</strong> NLP & Computer Vision</li>
+      <li><strong>Tools:</strong> TensorFlow, PyTorch</li>
+    </ul>
+  </div>
 
-### AI Engineering
-| Skill | Details |
-|-------|---------|
-| **Model Development** | Training & fine-tuning |
-| **Deployment** | Production-ready ML systems |
-| **MLOps** | CI/CD pipelines for ML |
-| **Specialties** | NLP & Computer Vision |
-| **Tools** | TensorFlow, PyTorch |
+  <!-- Database Mastery -->
+  <div style="flex:1; min-width:250px; background: linear-gradient(135deg, #f0fff4, #d6ffe6); padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); margin-top:20px;">
+    <h3 style="color:#22885d;">Database Mastery</h3>
+    <ul style="list-style:none; padding-left:0;">
+      <li><strong>Design:</strong> Schema design & normalization</li>
+      <li><strong>Optimization:</strong> Query performance tuning</li>
+      <li><strong>Scaling:</strong> Replication & sharding strategies</li>
+      <li><strong>Technologies:</strong> PostgreSQL, MySQL, Redis, Vector Databases</li>
+      <li><strong>ORMs:</strong> Django ORM, SQLAlchemy</li>
+    </ul>
+  </div>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Database Mastery
-| Skill | Details |
-|-------|---------|
-| **Design** | Schema design & normalization |
-| **Optimization** | Query performance tuning |
-| **Scaling** | Replication & sharding strategies |
-| **Technologies** | PostgreSQL, MySQL, Redis, Vector Databases |
-| **ORMs** | Django ORM, SQLAlchemy |
-
-</td>
-</tr>
-</table>
+</div>
 
 
 ---
