@@ -33,13 +33,9 @@
 </p>
 
 **Proficiency**
-- Python  
-  <img src="https://progress-bar.dev/90/?title=Advanced&width=350" />
-- C++  
-  <img src="https://progress-bar.dev/80/?title=Strong&width=350" />
-- JavaScript  
-  <img src="https://progress-bar.dev/70/?title=Good&width=350" />
-
+Python        ▓▓▓▓▓▓▓▓▓▓░░ 90%
+C++           ▓▓▓▓▓▓▓▓░░░░ 80%
+JavaScript    ▓▓▓▓▓▓▓░░░░░ 70%
 ---
 
 ### 🧠 AI & Machine Learning
@@ -48,12 +44,9 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
-- Model Training & Evaluation  
-  <img src="https://progress-bar.dev/85/?title=Expert&width=350" />
-- Deep Learning (CNNs, RNNs)  
-  <img src="https://progress-bar.dev/80/?title=Strong&width=350" />
-- Model Deployment  
-  <img src="https://progress-bar.dev/75/?title=Production&width=350" />
+TensorFlow   ▓▓▓▓▓▓▓▓░░░░ 80%
+PyTorch     ▓▓▓▓▓▓▓▓░░░░ 80%
+Model Deploy ▓▓▓▓▓▓▓░░░░░ 75%
 
 ---
 
@@ -62,12 +55,9 @@
   <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
 </p>
 
-- Django & DRF  
-  <img src="https://progress-bar.dev/90/?title=Advanced&width=350" />
-- FastAPI  
-  <img src="https://progress-bar.dev/85/?title=Advanced&width=350" />
-- REST API Design  
-  <img src="https://progress-bar.dev/90/?title=Expert&width=350" />
+Django         ▓▓▓▓▓▓▓▓▓▓░░ 90%
+REST APIs      ▓▓▓▓▓▓▓▓▓▓░░ 90%
+FastAPI        ▓▓▓▓▓▓▓▓░░░░ 85%
 
 ---
 
