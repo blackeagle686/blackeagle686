@@ -23,19 +23,6 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 **Location:** Egypt  
 **Tech Stack:** Python, Django, FastAPI, Machine Learning  
 **Focus:** Scalable systems, clean architecture, and high-performance APIs  
-
-<details>
-<summary>More About My Journey</summary>
-<br>
-
-- Currently working on **ML model deployment pipelines** and **high-performance microservices**  
-- Deep diving into **MLOps**, **distributed systems**, and **cloud architecture**  
-- Passionate about **clean code**, **scalable design**, and **developer experience**  
-- Open to **AI/ML engineering**, **backend roles**, and **freelance collaborations**  
-- Fun fact: I debug with `print()` statements and I’m not ashamed!  
-
-</details>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Arsenal
