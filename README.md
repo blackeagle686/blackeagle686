@@ -83,45 +83,48 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 
 <h2 style="border-bottom:2px solid #58A6FF; padding-bottom:5px;">What I Bring to the Table</h2>
 
-<div style="display:flex; gap:20px; flex-wrap: wrap;">
+<!-- Container -->
+<table width="100%" cellspacing="20">
+<tr>
 
   <!-- Backend Excellence -->
-  <div style="flex:1; min-width:250px; background: linear-gradient(135deg, #f0f4ff, #dce6ff); padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-    <h3 style="color:#1f4287;">Backend Excellence</h3>
-    <ul style="list-style:none; padding-left:0;">
+  <td width="33%" valign="top" style="background-color:#f0f4ff; padding:15px; border-radius:10px;">
+    <h3 style="color:#1f4287; margin-top:0;">Backend Excellence</h3>
+    <ul style="padding-left:15px;">
       <li><strong>API Development:</strong> RESTful & GraphQL APIs</li>
       <li><strong>Architecture:</strong> Microservices & Monoliths</li>
       <li><strong>Performance:</strong> Query optimization & caching</li>
       <li><strong>Security:</strong> Authentication & authorization</li>
       <li><strong>Testing:</strong> Unit & integration tests</li>
     </ul>
-  </div>
+  </td>
 
   <!-- AI Engineering -->
-  <div style="flex:1; min-width:250px; background: linear-gradient(135deg, #fff4f0, #ffe6d6); padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-    <h3 style="color:#b14a28;">AI Engineering</h3>
-    <ul style="list-style:none; padding-left:0;">
+  <td width="33%" valign="top" style="background-color:#fff4f0; padding:15px; border-radius:10px;">
+    <h3 style="color:#b14a28; margin-top:0;">AI Engineering</h3>
+    <ul style="padding-left:15px;">
       <li><strong>Model Development:</strong> Training & fine-tuning</li>
       <li><strong>Deployment:</strong> Production-ready ML systems</li>
       <li><strong>MLOps:</strong> CI/CD pipelines for ML</li>
       <li><strong>Specialties:</strong> NLP & Computer Vision</li>
       <li><strong>Tools:</strong> TensorFlow, PyTorch</li>
     </ul>
-  </div>
+  </td>
 
   <!-- Database Mastery -->
-  <div style="flex:1; min-width:250px; background: linear-gradient(135deg, #f0fff4, #d6ffe6); padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); margin-top:20px;">
-    <h3 style="color:#22885d;">Database Mastery</h3>
-    <ul style="list-style:none; padding-left:0;">
+  <td width="33%" valign="top" style="background-color:#f0fff4; padding:15px; border-radius:10px;">
+    <h3 style="color:#22885d; margin-top:0;">Database Mastery</h3>
+    <ul style="padding-left:15px;">
       <li><strong>Design:</strong> Schema design & normalization</li>
       <li><strong>Optimization:</strong> Query performance tuning</li>
       <li><strong>Scaling:</strong> Replication & sharding strategies</li>
       <li><strong>Technologies:</strong> PostgreSQL, MySQL, Redis, Vector Databases</li>
       <li><strong>ORMs:</strong> Django ORM, SQLAlchemy</li>
     </ul>
-  </div>
+  </td>
 
-</div>
+</tr>
+</table>
 
 
 ---
