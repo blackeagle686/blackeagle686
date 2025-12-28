@@ -178,7 +178,7 @@ Computer vision project leveraging deep learning to detect 3 types of cancer fro
 
 <div align="center">
 
-### [Image Generation Project](https://github.com/blackeagle686/IRYM_0.0)
+### [Image Generation Project (IRYM 0)](https://github.com/blackeagle686/IRYM_0.0)
 [![Stars](https://img.shields.io/github/stars/blackeagle686/IRYM_0.0?style=social)](https://github.com/blackeagle686/IRYM_0.0)
 
 </div>
