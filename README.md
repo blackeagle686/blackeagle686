@@ -134,15 +134,7 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 <div align="center">
 
 <!-- GitHub Stats -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=blackeagle686&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=tokyonight&hide_border=true" />
-
-<!-- Top Languages -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle686&layout=compact&theme=tokyonight&hide_border=true" />
-
-<!-- GitHub Trophy / Achievements -->
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=blackeagle686&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
 </div>
 
 ---
