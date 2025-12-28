@@ -149,8 +149,8 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 
 <div align="center">
 
-### [Cancer Discover](https://github.com/YOUR_USERNAME/cancer-discover)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/cancer-discover?style=social)](https://github.com/YOUR_USERNAME/cancer-discover)
+### [Cancer Discover](https://github.com/blackeagle686/Cancer_Discover_CV_0.0)
+[![Stars](https://img.shields.io/github/stars/blackeagle686/Cancer_Discover_CV_0.0?style=social)](https://github.com/blackeagle686/Cancer_Discover_CV_0.0)
 
 </div>
 
@@ -178,8 +178,8 @@ Computer vision project leveraging deep learning to detect 3 types of cancer fro
 
 <div align="center">
 
-### [Image Generation Project](https://github.com/YOUR_USERNAME/image-gen-llm)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/image-gen-llm?style=social)](https://github.com/YOUR_USERNAME/image-gen-llm)
+### [Image Generation Project](https://github.com/blackeagle686/IRYM_0.0)
+[![Stars](https://img.shields.io/github/stars/blackeagle686/IRYM_0.0?style=social)](https://github.com/blackeagle686/IRYM_0.0)
 
 </div>
 
@@ -209,8 +209,8 @@ Innovative system connecting LLMs with 2D image generation, enabling natural lan
 
 <div align="center">
 
-### [SmartSheet (IRYM 1)](https://github.com/YOUR_USERNAME/smartsheet-irym)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/smartsheet-irym?style=social)](https://github.com/YOUR_USERNAME/smartsheet-irym)
+### [SmartSheet (IRYM 1)](https://github.com/blackeagle686/SMART_SHEET_-IRYM-1-)
+[![Stars](https://img.shields.io/github/stars/blackeagle686/SMART_SHEET_-IRYM-1-?style=social)](https://github.com/blackeagle686/SMART_SHEET_-IRYM-1-)
 
 </div>
 
