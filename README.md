@@ -137,6 +137,140 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=tokyonight&hide_border=true" />
 </div>
 
+---
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### [Cancer Discover](https://github.com/YOUR_USERNAME/cancer-discover)
+[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/cancer-discover?style=social)](https://github.com/YOUR_USERNAME/cancer-discover)
+
+</div>
+
+**AI-Powered Cancer Detection System**
+
+Computer vision project leveraging deep learning to detect 3 types of cancer from medical images with high accuracy.
+
+<div align="center">
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+**Highlights:**
+- **Deep Learning** → CNN architectures for medical imaging
+- **Real-time Processing** → Fast inference pipeline
+- **High Accuracy** → Validated on medical datasets
+- **Production Ready** → Deployable Flask API
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### [Image Generation Project](https://github.com/YOUR_USERNAME/image-gen-llm)
+[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/image-gen-llm?style=social)](https://github.com/YOUR_USERNAME/image-gen-llm)
+
+</div>
+
+**AI-Powered Image Generation Platform**
+
+Innovative system connecting LLMs with 2D image generation, enabling natural language to visual content transformation.
+
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+**Highlights:**
+- **LLM Integration** → Fine-tuned transformer models
+- **High Performance** → Async FastAPI architecture
+- **Clean Code** → Modular & maintainable design
+- **Comprehensive Testing** → Unit & integration tests
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### [SmartSheet (IRYM 1)](https://github.com/YOUR_USERNAME/smartsheet-irym)
+[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/smartsheet-irym?style=social)](https://github.com/YOUR_USERNAME/smartsheet-irym)
+
+</div>
+
+**Smart Dynamic Data Analysis Dashboard**
+
+Upload datasets (CSV/Excel/JSON) and perform custom analyses through natural language queries. Built for team collaboration.
+
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</div>
+
+**Highlights:**
+- **NLP Queries** → Natural language data analysis
+- **ML Pipeline** → Automated workflow orchestration
+- **Team Collaboration** → Multi-user support
+- **Production Ready** → Model versioning & deployment
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### [Coming Soon...](https://github.com/YOUR_USERNAME)
+[![Profile](https://img.shields.io/badge/Follow-Profile-181717?style=social&logo=github)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+**Next-Gen AI-Powered Platform**
+
+Building something exciting with cutting-edge technologies. Stay tuned for updates!
+
+<div align="center">
+
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![VectorDB](https://img.shields.io/badge/VectorDB-FF6C37?style=flat-square&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+**Planned Features:**
+- **Modern UI/UX** → Intuitive user interface
+- **Async Tasks** → Background job processing
+- **Vector Search** → Semantic similarity search
+- **RESTful API** → Well-documented endpoints
+
+</td>
+</tr>
+</table>
+
+
+
 --- 
 
 ## Featured Projects
