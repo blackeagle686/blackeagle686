@@ -14,40 +14,40 @@
 
 </div>
 
-## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 
-> 💡 **Passionate about building intelligent systems that scale**
+> **Passionate about building intelligent systems that scale**
 
 I'm an AI Engineer and Backend Developer who loves bridging the gap between **cutting-edge AI research** and **production-grade systems**. My work focuses on deploying intelligent applications at scale, designing robust APIs, and creating backend architectures that can handle real-world challenges.
 
-🌍 Based in Egypt | 💻 Building with Python, Django & ML | 🚀 Always learning, always growing
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="20" /> Based in Egypt | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" /> Building with Python, Django & ML | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" /> Always learning, always growing
 
 <details>
-<summary>📈 More About My Journey</summary>
+<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="20" /> More About My Journey</summary>
 <br>
 
-- 🔭 Currently working on **ML model deployment pipelines** and **high-performance microservices**
-- 🌱 Deep diving into **MLOps**, **distributed systems**, and **cloud architecture**
-- 💡 Passionate about **clean code**, **scalable design**, and **developer experience**
-- 🎯 Open to **AI/ML engineering**, **backend roles**, and **freelance collaborations**
-- ⚡ Fun fact: I debug with `print()` statements and I'm not ashamed! 😄
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" /> Currently working on **ML model deployment pipelines** and **high-performance microservices**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" /> Deep diving into **MLOps**, **distributed systems**, and **cloud architecture**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="20" /> Passionate about **clean code**, **scalable design**, and **developer experience**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Target" width="20" /> Open to **AI/ML engineering**, **backend roles**, and **freelance collaborations**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="20" /> Fun fact: I debug with `print()` statements and I'm not ashamed!
 
 </details>
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages & Core Technologies
+### Languages & Core Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -55,7 +55,7 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -63,7 +63,7 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -71,7 +71,7 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 📊 Data Science & Visualization
+### Data Science & Visualization
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -79,7 +79,7 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔧 DevOps & Tools
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -93,50 +93,50 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 
 ---
 
-## 💼 What I Bring to the Table
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> What I Bring to the Table
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Backend Excellence
-- **API Development**: RESTful & GraphQL APIs
-- **Architecture**: Microservices & Monoliths
-- **Performance**: Query optimization & caching
-- **Security**: Authentication & authorization
-- **Testing**: Unit, integration & E2E tests
+### Backend Excellence
+- **API Development** → RESTful & GraphQL APIs
+- **Architecture** → Microservices & Monoliths
+- **Performance** → Query optimization & caching
+- **Security** → Authentication & authorization
+- **Testing** → Unit, integration & E2E tests
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 AI Engineering
-- **Model Development**: Training & fine-tuning
-- **Deployment**: Production-ready ML systems
-- **MLOps**: CI/CD pipelines for ML
-- **Specialties**: NLP & Computer Vision
-- **Tools**: TensorFlow, PyTorch, ONNX
+### AI Engineering
+- **Model Development** → Training & fine-tuning
+- **Deployment** → Production-ready ML systems
+- **MLOps** → CI/CD pipelines for ML
+- **Specialties** → NLP & Computer Vision
+- **Tools** → TensorFlow, PyTorch, ONNX
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ Database Mastery
-- **Design**: Schema design & normalization
-- **Optimization**: Query performance tuning
-- **Scaling**: Replication & sharding strategies
-- **Technologies**: PostgreSQL, MySQL, Redis
-- **ORMs**: Django ORM, SQLAlchemy
+### Database Mastery
+- **Design** → Schema design & normalization
+- **Optimization** → Query performance tuning
+- **Scaling** → Replication & sharding strategies
+- **Technologies** → PostgreSQL, MySQL, Redis
+- **ORMs** → Django ORM, SQLAlchemy
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 DevOps & Deployment
-- **Containerization**: Docker & orchestration
-- **CI/CD**: Automated pipelines
-- **Cloud**: AWS, DigitalOcean
-- **Monitoring**: Logging & performance tracking
-- **Infrastructure**: Linux server management
+### DevOps & Deployment
+- **Containerization** → Docker & orchestration
+- **CI/CD** → Automated pipelines
+- **Cloud** → AWS, DigitalOcean
+- **Monitoring** → Logging & performance tracking
+- **Infrastructure** → Linux server management
 
 </td>
 </tr>
@@ -144,7 +144,7 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
   
@@ -160,17 +160,15 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 
 ---
 
-## 🔥 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Featured Projects
 
 <div align="center">
-
-<!-- Replace these with your actual projects -->
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚀 [Project Name 1](https://github.com/YOUR_USERNAME/project1)
+### [Project Name 1](https://github.com/YOUR_USERNAME/project1)
 ![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project1?style=social)
 
 **AI-Powered System** • Django • TensorFlow
@@ -178,14 +176,14 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 Brief compelling description of what makes this project special. What problem does it solve?
 
 **Key Features:**
-- ⚡ Feature 1
-- 🎯 Feature 2
-- 🔥 Feature 3
+- Feature 1 → Advanced ML integration
+- Feature 2 → Real-time processing
+- Feature 3 → Scalable architecture
 
 </td>
 <td width="50%">
 
-### 🎨 [Project Name 2](https://github.com/YOUR_USERNAME/project2)
+### [Project Name 2](https://github.com/YOUR_USERNAME/project2)
 ![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project2?style=social)
 
 **Backend API** • FastAPI • PostgreSQL
@@ -193,16 +191,16 @@ Brief compelling description of what makes this project special. What problem do
 Another impressive project that showcases your skills. What makes it stand out?
 
 **Key Features:**
-- 💪 Feature 1
-- 🚀 Feature 2
-- ⚡ Feature 3
+- Feature 1 → High-performance API
+- Feature 2 → Clean architecture
+- Feature 3 → Comprehensive testing
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 [Project Name 3](https://github.com/YOUR_USERNAME/project3)
+### [Project Name 3](https://github.com/YOUR_USERNAME/project3)
 ![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project3?style=social)
 
 **ML Pipeline** • PyTorch • Docker
@@ -210,14 +208,14 @@ Another impressive project that showcases your skills. What makes it stand out?
 Your third standout project. What innovative solution does it provide?
 
 **Key Features:**
-- 🧠 Feature 1
-- 📊 Feature 2
-- 🎯 Feature 3
+- Feature 1 → Automated workflows
+- Feature 2 → Model versioning
+- Feature 3 → Production-ready
 
 </td>
 <td width="50%">
 
-### 📱 [Project Name 4](https://github.com/YOUR_USERNAME/project4)
+### [Project Name 4](https://github.com/YOUR_USERNAME/project4)
 ![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project4?style=social)
 
 **Full Stack** • React • FastAPI
@@ -225,9 +223,9 @@ Your third standout project. What innovative solution does it provide?
 Fourth project highlighting your versatility. What problem does it elegantly solve?
 
 **Key Features:**
-- ✨ Feature 1
-- 🔧 Feature 2
-- 💡 Feature 3
+- Feature 1 → Modern UI/UX
+- Feature 2 → RESTful design
+- Feature 3 → Fast deployment
 
 </td>
 </tr>
@@ -237,7 +235,7 @@ Fourth project highlighting your versatility. What problem does it elegantly sol
 
 ---
 
-## 📚 Latest Blog Posts
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- If you have a blog, you can auto-update this section using GitHub Actions -->
@@ -246,7 +244,7 @@ Fourth project highlighting your versatility. What problem does it elegantly sol
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="25" height="25" /> Let's Connect & Collaborate
 
 <div align="center">
 
@@ -259,7 +257,7 @@ I'm always excited to collaborate on interesting projects, discuss new technolog
 
 <br>
 
-### 💬 Ask me about...
+### Ask me about...
 
 `Python` `Django` `FastAPI` `Machine Learning` `System Design` `API Development` `Database Optimization`
 
