@@ -137,6 +137,19 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=tokyonight&hide_border=true" />
 </div>
 
+--- 
+
+## Featured Projects
+
+| Project | Description | Key Features |
+|---------|-------------|--------------|
+| [**Cancer Discover**](https://github.com/YOUR_USERNAME/project1) ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project1?style=social) | AI-Powered System • Flask • TensorFlow. A computer vision project to detect 3 types of cancer from images. | - Hands on Deep Learning<br>- Real-time processing<br>- Scalable architecture |
+| [**Image Generation Project**](https://github.com/YOUR_USERNAME/project2) ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project2?style=social) | Backend API & AI • FastAPI • Django • Transformers • PostgreSQL. Connects LLM to 2D image generation system. | - High-performance API<br>- Clean architecture<br>- Comprehensive testing<br>- Hands-on Transformers & LLM fine-tuning |
+| [**SmartSheet (IRYM 1)**](https://github.com/YOUR_USERNAME/project3) ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project3?style=social) | ML Pipeline + Smart dynamic dashboard • FastAPI • Django • Transformers • PostgreSQL. Upload datasets (CSV/Excel/JSON) and run custom analyses via natural language. | - Automated workflows<br>- Model versioning<br>- Production-ready<br>- Team collaboration |
+| [**Coming Soon**](https://github.com/YOUR_USERNAME/project4) ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project4?style=social) | Full Stack AI-Powered • Celery • VectorDB • Django • FastAPI • Transformers • PostgreSQL. | - Modern UI/UX<br>- RESTful design<br>- Fast deployment |
+
+
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Featured Projects
@@ -194,12 +207,12 @@ SmartSheet (IRYM 1) is a web-based platform that allows users to upload datasets
 </td>
 <td width="50%">
 
-### [Project Name 4](https://github.com/YOUR_USERNAME/project4)
+### [Comming soon](https://github.com/YOUR_USERNAME/project4)
 ![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project4?style=social)
 
-**Full Stack** • React • FastAPI
+**Full Stack AI-Powered** • Celery • VectorDB • Django • FastAPI • Transformers • PostgreSQL
 
-Fourth project highlighting your versatility. What problem does it elegantly solve?
+soon ***
 
 **Key Features:**
 - Feature 1 → Modern UI/UX
