@@ -147,49 +147,49 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 <tr>
 <td width="50%">
 
-### [Project Name 1](https://github.com/YOUR_USERNAME/project1)
+### [Cancer Discover](https://github.com/YOUR_USERNAME/project1)
 ![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project1?style=social)
 
-**AI-Powered System** • Django • TensorFlow
+**AI-Powered System** • Flask • TensorFlow
 
-Brief compelling description of what makes this project special. What problem does it solve?
+A computer vision project just to training on. it take an image for the user till now just 3 types of cancer can be discovered i am working to add more. after uploading the image the model will predicte it's type and give the result to the user. this is the first version form this project and it just my first project in Deep learning.
 
 **Key Features:**
-- Feature 1 → Advanced ML integration
+- Feature 1 → Hands on DeepLearning
 - Feature 2 → Real-time processing
 - Feature 3 → Scalable architecture
 
 </td>
 <td width="50%">
 
-### [Project Name 2](https://github.com/YOUR_USERNAME/project2)
+### [Image Generation Project](https://github.com/YOUR_USERNAME/project2)
 ![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project2?style=social)
 
-**Backend API** • FastAPI • PostgreSQL
+**Backend API & AI-Powered** • FastAPI • Django • Transformers • PostgreSQL
 
-Another impressive project that showcases your skills. What makes it stand out?
-
+A project that connects a Language Model (LLM) to a 2D image generation system. The backend is powered by Django and FastAPI, with image generation served via Google Colab and Ngrok.
 **Key Features:**
 - Feature 1 → High-performance API
 - Feature 2 → Clean architecture
 - Feature 3 → Comprehensive testing
+- Feature 4 → Hands on Transformers and LLM FienTuning 
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [Project Name 3](https://github.com/YOUR_USERNAME/project3)
+### [SmartSheet](https://github.com/YOUR_USERNAME/project3)
 ![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project3?style=social)
 
-**ML Pipeline** • PyTorch • Docker
+**ML Pipeline Smart and dynamic dashboard** • FastAPI • Django • Transformers • PostgreSQL 
 
-Your third standout project. What innovative solution does it provide?
-
+SmartSheet (IRYM 1) is a web-based platform that allows users to upload datasets (CSV, Excel, JSON) and describe in natural language prompts the type of analysis they want.
 **Key Features:**
 - Feature 1 → Automated workflows
 - Feature 2 → Model versioning
 - Feature 3 → Production-ready
+- Feature 4 → Team Work
 
 </td>
 <td width="50%">
