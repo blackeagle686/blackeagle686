@@ -126,19 +126,6 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 </tr>
 </table>
 
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=tokyonight&hide_border=true" alt=" " />
-</div>
-
----
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Featured Projects
@@ -270,6 +257,18 @@ Building something exciting with cutting-edge technologies. Stay tuned for updat
 </table>
 
 ---
+
+
+## GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=tokyonight&hide_border=true" alt=" " />
+</div>
+
+---
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="25" height="25" /> Let's Connect & Collaborate
 
