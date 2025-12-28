@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+Alaa;AI+Engineer+%26+Backend+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=120&color=58A6FF;FF6F61;43D9AD&lines=Hi+I'm+Mohamed+Alaa;AI+Engineer+%26+Backend+Developer" alt="Typing SVG" />
 
 <p>
   <em>Building scalable systems and production-ready AI solutions that make a difference</em>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alaa-670867254)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathematecs1@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -63,13 +63,20 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Databases
+### Databases & Vector DBs
 
+<!-- SQL Databases -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+<!-- NoSQL / Cache -->
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<!-- Vector Databases -->
+![Chroma](https://img.shields.io/badge/Chroma-FF6F61?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logoColor=white)
 
 ### Data Science & Visualization
 
@@ -82,12 +89,9 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 ### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -104,7 +108,7 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 - **Architecture** → Microservices & Monoliths
 - **Performance** → Query optimization & caching
 - **Security** → Authentication & authorization
-- **Testing** → Unit, integration & E2E tests
+- **Testing** → Unit & integration test
 
 </td>
 <td width="50%" valign="top">
@@ -114,7 +118,7 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 - **Deployment** → Production-ready ML systems
 - **MLOps** → CI/CD pipelines for ML
 - **Specialties** → NLP & Computer Vision
-- **Tools** → TensorFlow, PyTorch, ONNX
+- **Tools** → TensorFlow, PyTorch
 
 </td>
 </tr>
@@ -125,7 +129,7 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 - **Design** → Schema design & normalization
 - **Optimization** → Query performance tuning
 - **Scaling** → Replication & sharding strategies
-- **Technologies** → PostgreSQL, MySQL, Redis
+- **Technologies** → PostgreSQL, MySQL, Redis, Vector Databases
 - **ORMs** → Django ORM, SQLAlchemy
 
 </td>
@@ -134,7 +138,6 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 ### DevOps & Deployment
 - **Containerization** → Docker & orchestration
 - **CI/CD** → Automated pipelines
-- **Cloud** → AWS, DigitalOcean
 - **Monitoring** → Logging & performance tracking
 - **Infrastructure** → Linux server management
 
@@ -144,17 +147,19 @@ I'm an AI Engineer and Backend Developer who loves bridging the gap between **cu
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=blackeagle686&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle686&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<!-- GitHub Stats -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=blackeagle686&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=blackeagle686&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+<!-- Top Languages -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle686&layout=compact&theme=tokyonight&hide_border=true" />
+
+<!-- GitHub Trophy / Achievements -->
+<img width="48%" src="https://github-profile-trophy.vercel.app/?username=blackeagle686&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
