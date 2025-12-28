@@ -269,105 +269,6 @@ Building something exciting with cutting-edge technologies. Stay tuned for updat
 </tr>
 </table>
 
-
-
---- 
-
-## Featured Projects
-
-| Project | Description | Key Features |
-|---------|-------------|--------------|
-| [**Cancer Discover**](https://github.com/YOUR_USERNAME/project1) ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project1?style=social) | AI-Powered System • Flask • TensorFlow. A computer vision project to detect 3 types of cancer from images. | - Hands on Deep Learning<br>- Real-time processing<br>- Scalable architecture |
-| [**Image Generation Project**](https://github.com/YOUR_USERNAME/project2) ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project2?style=social) | Backend API & AI • FastAPI • Django • Transformers • PostgreSQL. Connects LLM to 2D image generation system. | - High-performance API<br>- Clean architecture<br>- Comprehensive testing<br>- Hands-on Transformers & LLM fine-tuning |
-| [**SmartSheet (IRYM 1)**](https://github.com/YOUR_USERNAME/project3) ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project3?style=social) | ML Pipeline + Smart dynamic dashboard • FastAPI • Django • Transformers • PostgreSQL. Upload datasets (CSV/Excel/JSON) and run custom analyses via natural language. | - Automated workflows<br>- Model versioning<br>- Production-ready<br>- Team collaboration |
-| [**Coming Soon**](https://github.com/YOUR_USERNAME/project4) ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project4?style=social) | Full Stack AI-Powered • Celery • VectorDB • Django • FastAPI • Transformers • PostgreSQL. | - Modern UI/UX<br>- RESTful design<br>- Fast deployment |
-
-
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### [Cancer Discover](https://github.com/YOUR_USERNAME/project1)
-![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project1?style=social)
-
-**AI-Powered System** • Flask • TensorFlow
-
-A computer vision project just to training on. it take an image for the user till now just 3 types of cancer can be discovered i am working to add more. after uploading the image the model will predicte it's type and give the result to the user. this is the first version form this project and it just my first project in Deep learning.
-
-**Key Features:**
-- Feature 1 → Hands on DeepLearning
-- Feature 2 → Real-time processing
-- Feature 3 → Scalable architecture
-
-</td>
-<td width="50%">
-
-### [Image Generation Project](https://github.com/YOUR_USERNAME/project2)
-![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project2?style=social)
-
-**Backend API & AI-Powered** • FastAPI • Django • Transformers • PostgreSQL
-
-A project that connects a Language Model (LLM) to a 2D image generation system. The backend is powered by Django and FastAPI, with image generation served via Google Colab and Ngrok.
-**Key Features:**
-- Feature 1 → High-performance API
-- Feature 2 → Clean architecture
-- Feature 3 → Comprehensive testing
-- Feature 4 → Hands on Transformers and LLM FienTuning 
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [SmartSheet](https://github.com/YOUR_USERNAME/project3)
-![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project3?style=social)
-
-**ML Pipeline Smart and dynamic dashboard** • FastAPI • Django • Transformers • PostgreSQL 
-
-SmartSheet (IRYM 1) is a web-based platform that allows users to upload datasets (CSV, Excel, JSON) and describe in natural language prompts the type of analysis they want.
-**Key Features:**
-- Feature 1 → Automated workflows
-- Feature 2 → Model versioning
-- Feature 3 → Production-ready
-- Feature 4 → Team Work
-
-</td>
-<td width="50%">
-
-### [Comming soon](https://github.com/YOUR_USERNAME/project4)
-![Project Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project4?style=social)
-
-**Full Stack AI-Powered** • Celery • VectorDB • Django • FastAPI • Transformers • PostgreSQL
-
-soon ***
-
-**Key Features:**
-- Feature 1 → Modern UI/UX
-- Feature 2 → RESTful design
-- Feature 3 → Fast deployment
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- If you have a blog, you can auto-update this section using GitHub Actions -->
-- Coming soon! I'm planning to share insights on ML deployment and backend architecture
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="25" height="25" /> Let's Connect & Collaborate
@@ -376,10 +277,9 @@ soon ***
 
 I'm always excited to collaborate on interesting projects, discuss new technologies, or just chat about AI and backend development!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alaa-670867254)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathematecs1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686)
 
 <br>
 
@@ -393,8 +293,8 @@ I'm always excited to collaborate on interesting projects, discuss new technolog
 
 ### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=58A6FF&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=blackeagle686&color=58A6FF&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/blackeagle686?style=for-the-badge&color=58A6FF&labelColor=0D1117)
 
 </div>
 
