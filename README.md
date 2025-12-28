@@ -134,7 +134,7 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 <div align="center">
 
 <!-- GitHub Stats -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=tokyonight&hide_border=true" alt="https://avatars.githubusercontent.com/u/125202959?v=4" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=tokyonight&hide_border=true" alt=" " />
 </div>
 
 ---
