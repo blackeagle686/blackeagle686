@@ -122,15 +122,6 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 - **ORMs** → Django ORM, SQLAlchemy
 
 </td>
-<td width="50%" valign="top">
-
-### DevOps & Deployment
-- **Containerization** → Docker & orchestration
-- **CI/CD** → Automated pipelines
-- **Monitoring** → Logging & performance tracking
-- **Infrastructure** → Linux server management
-
-</td>
 </tr>
 </table>
 
