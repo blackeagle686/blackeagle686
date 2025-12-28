@@ -1,107 +1,107 @@
-<h1 align="center">👋 Mohamed Alaa</h1>
+<h1 align="center">Mohamed Alaa</h1>
 
 <h3 align="center">
-  <i class="bi bi-cpu"></i> AI Engineer & Backend Developer <br/>
-  Django · FastAPI · Machine Learning · Scalable APIs
+AI Engineer & Backend Developer<br/>
+Django · FastAPI · Machine Learning · Scalable APIs
 </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <hr/>
 
-## 🚀 About Me
-- 🤖 **AI Engineer & Backend Developer** with strong ML & DL background  
-- ⚙️ Building **scalable backend systems & RESTful APIs**
-- 🧠 Experienced in **production ML model integration**
-- 📊 Strong foundation in **Data Structures, Algorithms & Databases**
-- 💼 Open to **AI / Backend roles** & **Freelance opportunities**
+## About Me
+AI Engineer and Backend Developer with strong experience in machine learning and deep learning.  
+Specialized in building scalable backend systems, RESTful APIs, and deploying ML models into production.  
+Solid foundation in computer science fundamentals including data structures, algorithms, and database design.  
+Open to backend, AI engineering roles, and freelance opportunities.
 
 ---
 
-## 🧰 Tech Stack
+## Technical Skills
 
-### 🧑‍💻 Programming Languages
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
 </p>
 
-**Proficiency**
-Python        ▓▓▓▓▓▓▓▓▓▓░░ 90%
-C++           ▓▓▓▓▓▓▓▓░░░░ 80%
-JavaScript    ▓▓▓▓▓▓▓░░░░░ 70%
+
 ---
 
-### 🧠 AI & Machine Learning
+### AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
 </p>
 
-TensorFlow   ▓▓▓▓▓▓▓▓░░░░ 80%
-PyTorch     ▓▓▓▓▓▓▓▓░░░░ 80%
-Model Deploy ▓▓▓▓▓▓▓░░░░░ 75%
+- TensorFlow ████████░░░ 80%
+- PyTorch ████████░░░ 80%
+- Model Deployment ███████░░░░ 75%
+
 
 ---
 
-### ⚙️ Backend Frameworks
+### Backend Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
 </p>
 
-Django         ▓▓▓▓▓▓▓▓▓▓░░ 90%
-REST APIs      ▓▓▓▓▓▓▓▓▓▓░░ 90%
-FastAPI        ▓▓▓▓▓▓▓▓░░░░ 85%
+- Django / DRF ██████████░░ 90%
+- FastAPI █████████░░░ 85%
+- REST API Design ██████████░░ 90%
+
 
 ---
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-- Database Design & Optimization  
-  <img src="https://progress-bar.dev/85/?title=Strong&width=350" />
+- Database Design █████████░░░ 85%
+- Query Optimization████████░░░░ 80%
+
 
 ---
 
-### 📊 Data Science Libraries
+### Data Science & Analysis
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4EABE6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4EABE6?style=flat-square"/>
 </p>
 
 ---
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx" />
 </p>
 
-- Docker & Deployment  
-  <img src="https://progress-bar.dev/80/?title=Production&width=350" />
+- Docker & Containers ████████░░░ 80%
+- Linux & Servers ████████░░░ 80%
+- Deployment & Nginx ███████░░░░ 75%
+
 
 ---
 
-## 🎓 Computer Science Fundamentals
-- 🧮 Data Structures I & II  
-- ⚡ Algorithms  
-- 🗃️ Database Design  
-- 📄 Software Requirements Specification (SRS)  
-- 🧠 System Analysis & Project Planning  
+## Computer Science Fundamentals
+- Data Structures & Algorithms  
+- Database Design & Normalization  
+- Software Requirements Specification (SRS)  
+- System Analysis & Project Planning  
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
@@ -112,18 +112,18 @@ FastAPI        ▓▓▓▓▓▓▓▓░░░░ 85%
 
 ---
 
-## 📬 Contact Me
+## Contact
 <p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <hr/>
 
 <p align="center">
-  🚀 <strong>Always building. Always learning.</strong>
+  Focused on building reliable systems and production-ready AI solutions.
 </p>
