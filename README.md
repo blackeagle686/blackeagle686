@@ -16,22 +16,11 @@
 
 ## 🚀 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Mohamed Alaa"
-        self.role = "AI Engineer & Backend Developer"
-        self.location = "Egypt 🇪🇬"
-        self.languages = ["Python", "C++", "JavaScript"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-        
-me = AIEngineer()
-me.say_hi()
-```
+> 💡 **Passionate about building intelligent systems that scale**
 
-I'm passionate about bridging the gap between **cutting-edge AI research** and **production-grade systems**. My work focuses on deploying intelligent applications at scale, designing robust APIs, and creating backend architectures that can handle real-world challenges.
+I'm an AI Engineer and Backend Developer who loves bridging the gap between **cutting-edge AI research** and **production-grade systems**. My work focuses on deploying intelligent applications at scale, designing robust APIs, and creating backend architectures that can handle real-world challenges.
+
+🌍 Based in Egypt | 💻 Building with Python, Django & ML | 🚀 Always learning, always growing
 
 <details>
 <summary>📈 More About My Journey</summary>
