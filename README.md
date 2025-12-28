@@ -18,11 +18,17 @@
 
 > **Passionate about building intelligent systems that scale**
 
-I am an **AI Engineer and Backend Developer** focused on bridging the gap between **cutting-edge AI research** and **production-grade systems**. My expertise lies in deploying intelligent applications at scale, designing robust APIs, and building backend architectures capable of handling real-world challenges.
+I am an **AI Engineer and Backend Developer** focused on bridging the gap between **cutting-edge AI research** and **production-grade systems**. I specialize in deploying intelligent applications at scale, designing robust APIs, and building backend architectures capable of handling real-world challenges.
 
 **Location:** Egypt  
-**Tech Stack:** Python, Django, FastAPI, Machine Learning  
-**Focus:** Scalable systems, clean architecture, and high-performance APIs  
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+**Focus:** Scalable systems, clean architecture, and high-performance APIs
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Arsenal
