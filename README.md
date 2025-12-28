@@ -1,57 +1,52 @@
-<h1 align="center">Hi 👋, I'm Mohamed Alaa</h1>
+<h1 align="center">Mohamed Alaa</h1>
 <h3 align="center">
-AI Engineer & Backend Developer | Django, FastAPI | ML & Scalable APIs
+AI Engineer & Backend Developer · Django · FastAPI · Machine Learning · Scalable APIs
 </h3>
 
 ---
 
-## 🚀 About Me
-- 🧠 **AI Engineer & Backend Developer**
-- 🤖 Strong experience in **Machine Learning & Deep Learning**
-- 🛠️ Building **scalable backend systems & RESTful APIs**
-- ⚡ Integrating ML models into production-ready systems
-- 📚 Solid background in **Data Structures, Algorithms & Database Design**
-- 💼 Open to AI / Backend roles & freelance opportunities
+## About Me
+- AI Engineer and Backend Developer with strong experience in machine learning and deep learning
+- Specialized in building scalable backend systems and RESTful APIs
+- Experienced in integrating ML models into production environments
+- Strong foundation in data structures, algorithms, and database design
+- Open to AI and backend roles, as well as freelance opportunities
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
 </p>
 
 ---
 
-### 🧠 AI & Machine Learning Frameworks
+### AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
 ---
 
-### ⚙️ Backend Frameworks
+### Backend Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
 </p>
 
 ---
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Data Science Libraries
+### Data Science Libraries
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -61,23 +56,23 @@ AI Engineer & Backend Developer | Django, FastAPI | ML & Scalable APIs
 
 ---
 
-### 🧪 Tools & DevOps
+### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx" />
 </p>
 
 ---
 
-## 📚 Computer Science Fundamentals
+## Computer Science Fundamentals
 - Data Structures I & II
 - Algorithms
 - Database Design
 - Software Requirements Specification (SRS)
-- Project Planning & System Analysis
+- Project Planning and System Analysis
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
@@ -88,7 +83,7 @@ AI Engineer & Backend Developer | Django, FastAPI | ML & Scalable APIs
 
 ---
 
-## 📫 Connect with Me
+## Contact
 <p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
