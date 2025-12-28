@@ -14,23 +14,25 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
+## About Me
 
 > **Passionate about building intelligent systems that scale**
 
-I'm an AI Engineer and Backend Developer who loves bridging the gap between **cutting-edge AI research** and **production-grade systems**. My work focuses on deploying intelligent applications at scale, designing robust APIs, and creating backend architectures that can handle real-world challenges.
+I am an **AI Engineer and Backend Developer** focused on bridging the gap between **cutting-edge AI research** and **production-grade systems**. My expertise lies in deploying intelligent applications at scale, designing robust APIs, and building backend architectures capable of handling real-world challenges.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="20" /> Based in Egypt | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" /> Building with Python, Django & ML | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" /> Always learning, always growing
+**Location:** Egypt  
+**Tech Stack:** Python, Django, FastAPI, Machine Learning  
+**Focus:** Scalable systems, clean architecture, and high-performance APIs  
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="20" /> More About My Journey</summary>
+<summary>More About My Journey</summary>
 <br>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" /> Currently working on **ML model deployment pipelines** and **high-performance microservices**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" /> Deep diving into **MLOps**, **distributed systems**, and **cloud architecture**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="20" /> Passionate about **clean code**, **scalable design**, and **developer experience**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Target" width="20" /> Open to **AI/ML engineering**, **backend roles**, and **freelance collaborations**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="20" /> Fun fact: I debug with `print()` statements and I'm not ashamed!
+- Currently working on **ML model deployment pipelines** and **high-performance microservices**  
+- Deep diving into **MLOps**, **distributed systems**, and **cloud architecture**  
+- Passionate about **clean code**, **scalable design**, and **developer experience**  
+- Open to **AI/ML engineering**, **backend roles**, and **freelance collaborations**  
+- Fun fact: I debug with `print()` statements and I’m not ashamed!  
 
 </details>
 
