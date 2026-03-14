@@ -231,27 +231,30 @@ Upload datasets (CSV/Excel/JSON) and perform custom analyses through natural lan
 
 </div>
 
-**Next-Gen AI-Powered Platform**
+**MyAgent - Autonomous AI Agent Framework**
 
-Building something exciting with cutting-edge technologies. Stay tuned for updates!
+A production-ready Python framework for building autonomous AI agents with ReAct reasoning, tool integration, and agentic memory management.
 
 <div align="center">
 
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![VectorDB](https://img.shields.io/badge/VectorDB-FF6C37?style=flat-square&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
-**Planned Features:**
-- **Modern UI/UX** → Intuitive user interface
-- **Async Tasks** → Background job processing
-- **Vector Search** → Semantic similarity search
-- **RESTful API** → Well-documented endpoints
-
+## Planned Features
+- **Agent Brain Architecture** → Modular cognition loop implementing reasoning, planning, and decision-making
+- **ReAct Reasoning Engine** → Thought → Action → Observation loops for structured problem solving
+- **Tool Execution Framework** → Dynamic tool registration, selection, and safe execution system
+- **Agent Memory System** → Short-term conversation memory + long-term vector knowledge storage
+- **Vector Knowledge Retrieval (RAG)** → Semantic search over documents to ground agent decisions
+- **Async Task Engine** → Background execution for tool calls, indexing, and long-running agent tasks
+- **Planning Module** → Task decomposition and multi-step goal execution
+- **Reflection System (Self-Correction)** → Agent evaluates outputs and improves decisions
+- **REST API Interface** → Expose agent capabilities through clean endpoints
+- **Observability & Debugging** → Agent reasoning traces, tool logs, and execution tracking
 </td>
 </tr>
 </table>
