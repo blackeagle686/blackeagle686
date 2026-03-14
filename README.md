@@ -226,8 +226,8 @@ Upload datasets (CSV/Excel/JSON) and perform custom analyses through natural lan
 
 <div align="center">
 
-### [MyAgent🐥]([https://github.com/YOUR_USERNAME](https://github.com/blackeagle686/MyAgent/tree/master))
-[![Profile](https://img.shields.io/badge/Follow-Profile-181717?style=social&logo=github)](https://github.com/YOUR_USERNAME)
+### [MyAgent🐥](https://github.com/blackeagle686/MyAgent/))
+[![Stars](https://img.shields.io/github/stars/blackeagle686/MyAgent?style=social)](https://github.com/blackeagle686/MyAgent)
 
 </div>
 
