@@ -136,22 +136,43 @@ I am an **AI Engineer and Backend Developer** focused on bridging the gap betwee
 
 <div align="center">
 
-### [Cancer Discover](https://github.com/blackeagle686/Cancer_Discover_CV_0.0)
-[![Stars](https://img.shields.io/github/stars/blackeagle686/Cancer_Discover_CV_0.0?style=social)](https://github.com/blackeagle686/Cancer_Discover_CV_0.0)
+### [HDA-v3](https://github.com/blackeagle686/hda_v3)
+[![Stars](https://img.shields.io/github/stars/blackeagle686/hda_v3?style=social)](https://github.com/blackeagle686/hda_v3)
 
 </div>
 
-**AI-Powered Cancer Detection System**
+**Health Data Analysis (HDA) AI Assistant - V3**
 
-Computer vision project leveraging deep learning to detect 3 types of cancer from medical images with high accuracy.
+Revolutionizing Histopathology with AI-Powered Intelligence. HDA V3 is an advanced medical diagnostic assistant that combines Deep Learning classification with Large Vision-Language Models (VLM) and RAG to provide comprehensive analysis of medical slides.
 
 <div align="center">
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🤖 AI & Machine Learning
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A5AFA?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/Accelerate-FF6F00?style=for-the-badge)
+
+Vision:
+EfficientNet-B0 • Qwen2-VL
+
+LLM:
+TinyLlama • Google Gemini
+
+---
+### 🏗 Backend & Deployment
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </div>
 
 **Highlights:**
