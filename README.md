@@ -175,11 +175,12 @@ TinyLlama • Google Gemini
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </div>
 
-**Highlights:**
-- **Deep Learning** → CNN architectures for medical imaging
-- **Real-time Processing** → Fast inference pipeline
-- **High Accuracy** → Validated on medical datasets
-- **Production Ready** → Deployable Flask API
+### Key Features
+-   🔬 **Precision Classification**: Detects Colon Adenocarcinoma, Lung Adenocarcinoma, and Squamous Cell Carcinoma with high confidence using a fine-tuned EfficientNet-B0.
+-   📝 **AI-Generated Clinical Reports**: Leverages **Qwen2-VL** to generate natural language descriptions of visual pathological features.
+-   💬 **Interactive Medical Chat**: Session-based AI consultation powered by **TinyLlama/Gemini** for follow-up questions.
+-   📚 **Medical RAG System**: Integrates clinical guidelines and research papers using **ChromaDB** to provide cited, evidence-based answers.
+-   🔥 **Visual Evidence**: Generates Grad-CAM heatmaps to highlight critical regions within pathology slides.
 
 </td>
 <td width="50%" valign="top">
