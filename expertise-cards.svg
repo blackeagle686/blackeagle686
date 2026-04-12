@@ -1,50 +1,57 @@
-<svg width="900" height="190" viewBox="0 0 900 190" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0A0A0F"/>
       <stop offset="100%" style="stop-color:#13131A"/>
     </linearGradient>
-    <clipPath id="r"><rect width="900" height="190" rx="14"/></clipPath>
+    <clipPath id="r"><rect width="900" height="320" rx="14"/></clipPath>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FF4500" stroke-width="0.4" stroke-opacity="0.1"/>
     </pattern>
   </defs>
+
   <g clip-path="url(#r)">
-    <rect width="900" height="190" fill="url(#bg)"/>
-    <rect width="900" height="190" fill="url(#grid)"/>
-    <rect width="900" height="190" rx="14" fill="none" stroke="#FF4500" stroke-width="0.8" stroke-opacity="0.2"/>
+    <rect width="900" height="320" fill="url(#bg)"/>
+    <rect width="900" height="320" fill="url(#grid)"/>
+    <rect width="900" height="320" rx="14" fill="none" stroke="#FF4500" stroke-width="0.8" stroke-opacity="0.2"/>
 
-    <!-- Card 1: Backend Engineering -->
-    <rect x="14" y="14" width="278" height="162" rx="11" fill="#111118" stroke="#FF4500" stroke-width="0.8" stroke-opacity="0.35"/>
-    <rect x="14" y="14" width="278" height="4"   rx="2" fill="#FF4500"/>
-    <text x="30" y="46" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FF4500">⬡  Backend Engineering</text>
-    <line x1="30" y1="54" x2="278" y2="54" stroke="#FF4500" stroke-width="0.5" stroke-opacity="0.25"/>
-    <text x="30" y="76"  font-family="'Courier New', monospace" font-size="13" fill="#FFFFFF">›  RESTful &amp; GraphQL APIs</text>
-    <text x="30" y="96"  font-family="'Courier New', monospace" font-size="13" fill="#CCCCCC">›  Microservices architecture</text>
-    <text x="30" y="116" font-family="'Courier New', monospace" font-size="13" fill="#FFFFFF">›  Query optimization &amp; caching</text>
-    <text x="30" y="136" font-family="'Courier New', monospace" font-size="13" fill="#CCCCCC">›  Auth &amp; security layers</text>
-    <text x="30" y="156" font-family="'Courier New', monospace" font-size="13" fill="#FFFFFF">›  Unit &amp; integration testing</text>
+    <!-- ══ Card 1: Backend Engineering ══ -->
+    <rect x="14" y="14" width="278" height="292" rx="11" fill="#111118" stroke="#FF4500" stroke-width="1" stroke-opacity="0.4"/>
+    <rect x="14" y="14" width="278" height="6"   rx="3" fill="#FF4500"/>
 
-    <!-- Card 2: AI Engineering -->
-    <rect x="312" y="14" width="278" height="162" rx="11" fill="#111118" stroke="#FF7A3D" stroke-width="0.8" stroke-opacity="0.35"/>
-    <rect x="312" y="14" width="278" height="4"   rx="2" fill="#FF7A3D"/>
-    <text x="328" y="46" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FF7A3D">◈  AI Engineering</text>
-    <line x1="328" y1="54" x2="576" y2="54" stroke="#FF7A3D" stroke-width="0.5" stroke-opacity="0.25"/>
-    <text x="328" y="76"  font-family="'Courier New', monospace" font-size="13" fill="#FFFFFF">›  Model training &amp; fine-tuning</text>
-    <text x="328" y="96"  font-family="'Courier New', monospace" font-size="13" fill="#CCCCCC">›  Production ML deployment</text>
-    <text x="328" y="116" font-family="'Courier New', monospace" font-size="13" fill="#FFFFFF">›  MLOps &amp; CI/CD pipelines</text>
-    <text x="328" y="136" font-family="'Courier New', monospace" font-size="13" fill="#CCCCCC">›  NLP &amp; Computer Vision</text>
-    <text x="328" y="156" font-family="'Courier New', monospace" font-size="13" fill="#FFFFFF">›  RAG system design</text>
+    <text x="30" y="58" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FF4500">⬡ Backend Engineering</text>
+    <line x1="30" y1="70" x2="278" y2="70" stroke="#FF4500" stroke-width="0.8" stroke-opacity="0.35"/>
 
-    <!-- Card 3: Data & Databases -->
-    <rect x="610" y="14" width="278" height="162" rx="11" fill="#111118" stroke="#FF9966" stroke-width="0.8" stroke-opacity="0.35"/>
-    <rect x="610" y="14" width="278" height="4"   rx="2" fill="#FF9966"/>
-    <text x="626" y="46" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FF9966">◎  Data &amp; Databases</text>
-    <line x1="626" y1="54" x2="874" y2="54" stroke="#FF9966" stroke-width="0.5" stroke-opacity="0.25"/>
-    <text x="626" y="76"  font-family="'Courier New', monospace" font-size="13" fill="#FFFFFF">›  Schema design &amp; normalization</text>
-    <text x="626" y="96"  font-family="'Courier New', monospace" font-size="13" fill="#CCCCCC">›  Performance tuning</text>
-    <text x="626" y="116" font-family="'Courier New', monospace" font-size="13" fill="#FFFFFF">›  Replication &amp; sharding</text>
-    <text x="626" y="136" font-family="'Courier New', monospace" font-size="13" fill="#CCCCCC">›  Vector database integration</text>
-    <text x="626" y="156" font-family="'Courier New', monospace" font-size="13" fill="#FFFFFF">›  PostgreSQL · MySQL · Redis</text>
+    <text x="30" y="100" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  RESTful &amp; GraphQL APIs</text>
+    <text x="30" y="130" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  Microservices architecture</text>
+    <text x="30" y="160" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  Query optimization &amp; caching</text>
+    <text x="30" y="190" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  Auth &amp; security layers</text>
+    <text x="30" y="220" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  Unit &amp; integration testing</text>
+
+    <!-- ══ Card 2: AI Engineering ══ -->
+    <rect x="312" y="14" width="278" height="292" rx="11" fill="#111118" stroke="#FF7A3D" stroke-width="1" stroke-opacity="0.4"/>
+    <rect x="312" y="14" width="278" height="6"   rx="3" fill="#FF7A3D"/>
+
+    <text x="328" y="58" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FF7A3D">◈ AI Engineering</text>
+    <line x1="328" y1="70" x2="576" y2="70" stroke="#FF7A3D" stroke-width="0.8" stroke-opacity="0.35"/>
+
+    <text x="328" y="100" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  Model training &amp; fine-tuning</text>
+    <text x="328" y="130" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  Production ML deployment</text>
+    <text x="328" y="160" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  MLOps &amp; CI/CD pipelines</text>
+    <text x="328" y="190" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  NLP &amp; Computer Vision</text>
+    <text x="328" y="220" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  RAG system design</text>
+
+    <!-- ══ Card 3: Data & Databases ══ -->
+    <rect x="610" y="14" width="278" height="292" rx="11" fill="#111118" stroke="#FF9966" stroke-width="1" stroke-opacity="0.4"/>
+    <rect x="610" y="14" width="278" height="6"   rx="3" fill="#FF9966"/>
+
+    <text x="626" y="58" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FF9966">◎ Data &amp; Databases</text>
+    <line x1="626" y1="70" x2="874" y2="70" stroke="#FF9966" stroke-width="0.8" stroke-opacity="0.35"/>
+
+    <text x="626" y="100" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  Schema design &amp; normalization</text>
+    <text x="626" y="130" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  Performance tuning</text>
+    <text x="626" y="160" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  Replication &amp; sharding</text>
+    <text x="626" y="190" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  Vector database integration</text>
+    <text x="626" y="220" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF">›  PostgreSQL · MySQL · Redis</text>
   </g>
 </svg>
