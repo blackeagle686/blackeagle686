@@ -77,112 +77,206 @@
 </div>
 
 ---
-## 🚀 Featured Projects
+## `03` &nbsp;—&nbsp; Featured Projects
+
+<div align="center">
+
+![Projects](https://img.shields.io/badge/Projects-Production_Ready-FF4500?style=for-the-badge&logo=rocket&logoColor=white)
+&nbsp;
+![AI Systems](https://img.shields.io/badge/Focus-AI_%26_Backend-0A0A0F?style=for-the-badge&logo=openai&logoColor=FF4500)
+
+</div>
+
+<br/>
 
 ---
 
-## 🏆 Flagship Project
+### 🏆 &nbsp; Flagship Project
 
-### 🔬 HDA-v3 — Health Data Analysis Assistant  
+<div align="center">
+
+<table width="90%">
+<tr>
+<td align="center" style="background:#0A0A0F; border-radius:12px; padding:24px;">
+
+<img src="https://img.shields.io/badge/FLAGSHIP-FF4500?style=for-the-badge&logo=award&logoColor=white" alt="Flagship"/>
+
+## 🔬 HDA-v3 — Health Data Analysis Assistant
+
 > **AI-powered histopathology diagnostic system for cancer detection & clinical reasoning**
 
-<p align="center">
-  <a href="https://github.com/blackeagle686/hda_v3">
-    <img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
-#### 🧠 Core Capabilities
-- 🎯 **Cancer Classification** — Fine-tuned EfficientNet-B0 (Colon, Lung, Squamous)
-- 📝 **Clinical Report Generation** — Qwen2-VL vision-language reasoning
-- 💬 **AI Consultation Chat** — Session-based medical assistant
-- 📚 **Medical RAG** — ChromaDB + clinical guideline retrieval
-- 🔥 **Explainability** — Grad-CAM visual heatmaps
+| Capability | Detail |
+|:---|:---|
+| 🎯 **Cancer Classification** | Fine-tuned EfficientNet-B0 — Colon · Lung · Squamous |
+| 📝 **Clinical Reports** | Qwen2-VL vision-language reasoning |
+| 💬 **AI Consultation** | Session-based medical assistant chat |
+| 📚 **Medical RAG** | ChromaDB + clinical guideline retrieval |
+| 🔥 **Explainability** | Grad-CAM visual heatmaps |
 
-#### ⚙️ Tech Stack
-`PyTorch` · `FastAPI` · `LangChain` · `ChromaDB` · `Transformers`
+<br/>
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0F?style=flat-square&logo=pytorch&logoColor=FF4500)](https://pytorch.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF4500)](https://fastapi.tiangolo.com)
+[![LangChain](https://img.shields.io/badge/LangChain-0A0A0F?style=flat-square&logo=chainlink&logoColor=FF9966)](https://langchain.com)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-0A0A0F?style=flat-square&logo=databricks&logoColor=FF9966)](https://trychroma.com)
+[![HuggingFace](https://img.shields.io/badge/Transformers-0A0A0F?style=flat-square&logo=huggingface&logoColor=FF7A3D)](https://huggingface.co)
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/hda_v3)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
-## 🤖 Core AI Systems
+### 🤖 &nbsp; Core AI Systems
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🤖 MyAgent v1.2  
-> Autonomous AI Agent Framework (Hybrid Rust + Python)
+<div align="center">
 
-🔹 **Highlights**
-- ReAct Loop (Thought → Action → Observation)  
-- ⚡ Rust acceleration (**12.8× faster**)  
-- 🧠 Self-reflection learning system  
-- 🧰 Built-in tools (RAG, FS, REPL)  
-- 🖥 GUI (PySide6) + CLI  
+![Agent](https://img.shields.io/badge/AUTONOMOUS_AGENT-0A0A0F?style=flat-square&logo=robot&logoColor=FF4500)
 
-📦 **Stack:** `Python` · `Rust` · `PyO3`
+### 🤖 MyAgent v1.2
 
-🔗 [View Project](https://github.com/blackeagle686/MyAgent)
+*Autonomous AI Agent Framework*
+
+</div>
+
+| Feature | Detail |
+|:---|:---|
+| 🔄 **ReAct Loop** | Thought → Action → Observation |
+| ⚡ **Rust Core** | **12.8× faster** execution |
+| 🧠 **Self-Reflection** | Learning & memory system |
+| 🧰 **Tools** | RAG · File System · REPL |
+| 🖥 **Interface** | PySide6 GUI + CLI |
+
+<br/>
+
+[![Python](https://img.shields.io/badge/Python-0A0A0F?style=flat-square&logo=python&logoColor=FF4500)](https://python.org)
+[![Rust](https://img.shields.io/badge/Rust-0A0A0F?style=flat-square&logo=rust&logoColor=FF7A3D)](https://rust-lang.org)
+[![PyO3](https://img.shields.io/badge/PyO3-0A0A0F?style=flat-square&logo=rust&logoColor=FF9966)](https://pyo3.rs)
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/MyAgent)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 IRYM SDK  
-> Modular AI Backend Infrastructure
+<div align="center">
 
-🔹 **Highlights**
-- Central DI Container  
-- Interface-first design  
-- Async-first architecture  
-- Built-in RAG pipeline  
-- Redis + Qdrant + SQLAlchemy  
+![SDK](https://img.shields.io/badge/MODULAR_SDK-0A0A0F?style=flat-square&logo=puzzle&logoColor=FF4500)
 
-📦 **Stack:** `FastAPI` · `Redis` · `Qdrant`
+### 🧠 IRYM SDK
 
-🔗 [View Project](https://github.com/blackeagle686/IRYM_sdk)
+*Modular AI Backend Infrastructure*
+
+</div>
+
+| Feature | Detail |
+|:---|:---|
+| 💉 **DI Container** | Centralized dependency injection |
+| 🎯 **Interface-First** | Clean architectural boundaries |
+| ⚡ **Async-First** | Non-blocking throughout |
+| 🔍 **Built-in RAG** | End-to-end retrieval pipeline |
+| 🗄️ **Multi-Store** | Redis · Qdrant · SQLAlchemy |
+
+<br/>
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF4500)](https://fastapi.tiangolo.com)
+[![Redis](https://img.shields.io/badge/Redis-0A0A0F?style=flat-square&logo=redis&logoColor=FF7A3D)](https://redis.io)
+[![Qdrant](https://img.shields.io/badge/Qdrant-0A0A0F?style=flat-square&logo=vectorworks&logoColor=FF9966)](https://qdrant.tech)
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/IRYM_sdk)
 
 </td>
 
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## 📊 Applied AI Products
+### 📊 &nbsp; Applied AI Products
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 📊 SmartSheet (IRYM-1)  
-> Natural Language Data Analysis Platform
+<div align="center">
 
-🔹 Upload datasets → ask in plain English → get insights  
+![NLP](https://img.shields.io/badge/NLP_ANALYTICS-0A0A0F?style=flat-square&logo=chartdotjs&logoColor=FF4500)
 
-**Features**
-- Auto-generated Python code  
-- Secure execution sandbox  
-- Charts & visualizations  
+### 📊 SmartSheet — IRYM-1
 
-📦 `Django` · `FastAPI` · `Pandas`
+*Natural Language Data Analysis Platform*
 
-🔗 [View Project](https://github.com/blackeagle686/SMART_SHEET_-IRYM-1-)
+</div>
+
+| Feature | Detail |
+|:---|:---|
+| 💬 **NL Interface** | Ask questions in plain English |
+| 🐍 **Code Gen** | Auto-generated analysis scripts |
+| 🔒 **Sandbox** | Secure isolated execution |
+| 📈 **Visuals** | Charts & rich visualizations |
+
+<br/>
+
+[![Django](https://img.shields.io/badge/Django-0A0A0F?style=flat-square&logo=django&logoColor=FF4500)](https://djangoproject.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF7A3D)](https://fastapi.tiangolo.com)
+[![Pandas](https://img.shields.io/badge/Pandas-0A0A0F?style=flat-square&logo=pandas&logoColor=FF9966)](https://pandas.pydata.org)
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/SMART_SHEET_-IRYM-1-)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🖼 IRYM 0 — Image Generation  
-> Text → Image AI Pipeline
+<div align="center">
 
-🔹 Async generation system with LLM orchestration  
+![ImageAI](https://img.shields.io/badge/GENERATIVE_AI-0A0A0F?style=flat-square&logo=adobefirefly&logoColor=FF4500)
 
-📦 `FastAPI` · `Transformers` · `PostgreSQL`
+### 🖼️ IRYM 0 — Image Generation
 
-🔗 [View Project](https://github.com/blackeagle686/IRYM_0.0)
+*Text → Image AI Pipeline*
+
+</div>
+
+| Feature | Detail |
+|:---|:---|
+| 🎨 **Text-to-Image** | Diffusion model pipeline |
+| ⚡ **Async Gen** | Non-blocking generation queue |
+| 🤖 **LLM Orchestration** | Intelligent prompt refinement |
+| 🗄️ **Persistent Store** | PostgreSQL asset management |
+
+<br/>
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF4500)](https://fastapi.tiangolo.com)
+[![HuggingFace](https://img.shields.io/badge/Transformers-0A0A0F?style=flat-square&logo=huggingface&logoColor=FF7A3D)](https://huggingface.co)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0F?style=flat-square&logo=postgresql&logoColor=FF9966)](https://postgresql.org)
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/IRYM_0.0)
 
 </td>
 
@@ -204,6 +298,9 @@ skills = {
 
 status = "Open to Work 🚀"
 location = "Egypt 🇪🇬"
+```
+
+---
 
 ## `04` &nbsp;—&nbsp; GitHub Analytics
 
