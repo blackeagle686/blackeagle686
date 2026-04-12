@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=FF4500&labelColor=0A0A0F)](https://linkedin.com/in/mohammed-alaa-670867254)
 [![Email](https://img.shields.io/badge/-%20Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FF4500&labelColor=0A0A0F)](mailto:mathematecs1@gmail.com)
 [![GitHub](https://img.shields.io/badge/-%20GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=FF4500&labelColor=0A0A0F)](https://github.com/blackeagle686)
+[![Portfolio](https://img.shields.io/badge/-%20Portfolio-FF4500?style=for-the-badge&logo=globe&logoColor=white&labelColor=FF4500)](https://mohammedalaa686.pythonanywhere.com/)
 
 </div>
 
@@ -321,13 +322,17 @@ location = "Egypt 🇪🇬"
 
 <div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.demolab.com/?user=blackeagle686&theme=dark&hide_border=true&background=0A0A0F&ring=FF4500&fire=FF7A3D&currStreakLabel=FF4500&sideLabels=FF7A3D&dates=666666&stroke=1A1A24" />
+<img height="165" src="https://streak-stats.demolab.com/?user=blackeagle686&theme=dark&hide_border=true&background=0A0A0F&ring=FF4500&fire=FF7A3D&currStreakLabel=FF4500&sideLabels=FF7A3D&dates=888888&stroke=1A1A24" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=blackeagle686&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=FF4500&icon_color=FF7A3D&text_color=F0EEE8&count_private=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=blackeagle686&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=FF4500&icon_color=FF7A3D&text_color=F0EEE8&count_private=true&rank_icon=github&cache_seconds=1800" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle686&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=FF4500&text_color=F0EEE8&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle686&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=FF4500&text_color=F0EEE8&langs_count=8&cache_seconds=1800" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blackeagle686&bg_color=0A0A0F&color=FF4500&line=FF7A3D&point=FF4500&area=true&area_color=FF4500&hide_border=true&theme=github-compact" />
 
 </div>
 
@@ -342,6 +347,8 @@ location = "Egypt 🇪🇬"
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=FF4500)](https://linkedin.com/in/mohammed-alaa-670867254)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF4500?style=for-the-badge&logo=globe&logoColor=white)](https://mohammedalaa686.pythonanywhere.com/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Send_an_Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FF4500)](mailto:mathematecs1@gmail.com)
 &nbsp;
