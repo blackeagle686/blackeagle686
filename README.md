@@ -82,7 +82,11 @@
 
 <br/>
 
-> ### 🔬 &nbsp;HDA-v3 &nbsp;—&nbsp; Health Data Analysis Assistant &nbsp;`FLAGSHIP`
+<!-- ════════════════════════════════════════════ -->
+<!-- FLAGSHIP ROW — HDA-v3 -->
+<!-- ════════════════════════════════════════════ -->
+
+> ### 🔬 &nbsp;HDA-v3 &nbsp;—&nbsp; Health Data Analysis Assistant &nbsp;&nbsp;`FLAGSHIP`
 >
 > AI-powered histopathology diagnostic assistant combining EfficientNet-B0 classification, Qwen2-VL vision-language model, RAG with ChromaDB, and Grad-CAM visual explanations. Detects **Colon Adenocarcinoma**, **Lung Adenocarcinoma**, and **Squamous Cell Carcinoma** with session-based clinical AI chat.
 >
@@ -104,13 +108,104 @@
 
 <br/>
 
+<!-- ════════════════════════════════════════════ -->
+<!-- MAIN PROJECTS ROW -->
+<!-- ════════════════════════════════════════════ -->
+
 <table width="100%">
 <tr>
+
+<!-- ── MyAgent ── -->
+<td width="33%" valign="top">
+
+> ### 🤖 &nbsp;MyAgent &nbsp;`v1.2`
+>
+> **Autonomous AI Agent Framework** — Production-ready Python framework with a **Rust acceleration engine** delivering up to **12.8× speedup** on core operations.
+>
+> **Architecture highlights:**
+> - ReAct loop: Thought → Action → Observation
+> - Rust/Python hybrid via PyO3 + Maturin
+> - SIMD-accelerated episodic memory ranking
+> - Self-Reflection system — learns from every task
+> - 11+ secured built-in tools (REPL, RAG, FS)
+> - PySide6 desktop GUI + Rich CLI
+> - Hybrid LLM stack with local fallback (Qwen2.5)
+>
+> [![Python](https://img.shields.io/badge/Python_3.12+-0A0A0F?style=flat-square&logo=python&logoColor=FF4500)](https://python.org)
+> [![Rust](https://img.shields.io/badge/Rust-0A0A0F?style=flat-square&logo=rust&logoColor=FF7A3D)](https://rust-lang.org)
+> [![PySide6](https://img.shields.io/badge/PySide6-0A0A0F?style=flat-square&logo=qt&logoColor=FF9966)](#)
+> [![MIT](https://img.shields.io/badge/MIT-0A0A0F?style=flat-square&logo=opensourceinitiative&logoColor=FF4500)](#)
+>
+> [![View →](https://img.shields.io/badge/View_Project_→-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/MyAgent)
+
+</td>
+
+<!-- ── IRYM_sdk ── -->
+<td width="33%" valign="top">
+
+> ### 🧠 &nbsp;IRYM\_sdk
+>
+> **Production-Ready AI Backend SDK** — Modular infrastructure layer for AI-powered Python services. Eliminates repetitive backend setup across FastAPI, Django, or custom event-driven services.
+>
+> **What's included:**
+> - Central DI container — no global state
+> - Interface-First: `BaseCache`, `BaseLLM`, `BaseVectorDB`
+> - `InsightEngine` — prompt building, vector reranking, caching
+> - Async-first `asyncio` architecture
+> - Redis · SQLAlchemy · Celery · Qdrant · OpenAI
+> - Drop-in RAG pipeline out of the box
+>
+> [![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF4500)](https://fastapi.tiangolo.com)
+> [![Redis](https://img.shields.io/badge/Redis-0A0A0F?style=flat-square&logo=redis&logoColor=FF7A3D)](https://redis.io)
+> [![Qdrant](https://img.shields.io/badge/Qdrant-0A0A0F?style=flat-square&logo=databricks&logoColor=FF9966)](#)
+> [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0A0A0F?style=flat-square&logo=python&logoColor=FF4500)](#)
+>
+> [![View →](https://img.shields.io/badge/View_Project_→-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/IRYM_sdk)
+
+</td>
+
+<!-- ── SmartSheet ── -->
+<td width="33%" valign="top">
+
+> ### 📊 &nbsp;SmartSheet &nbsp;`IRYM 1`
+>
+> **Natural Language Data Analysis Platform** — Upload datasets and describe your analysis in plain English. LLMs generate, execute, and return results as charts or text — no code required.
+>
+> **Key capabilities:**
+> - Upload CSV, Excel, JSON datasets
+> - NL prompts → dynamic Python code generation
+> - Secure sandboxed code execution
+> - Visualization: charts, plots, tables
+> - Powered by QWEN & Qwen Coder LLMs
+> - Django + FastAPI dual-backend architecture
+>
+> **Team:** Mohamed Alaa · Ahmed Ali · Abd El-Rahman Kamal
+>
+> [![Django](https://img.shields.io/badge/Django_5.2-0A0A0F?style=flat-square&logo=django&logoColor=FF4500)](https://djangoproject.com)
+> [![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF7A3D)](https://fastapi.tiangolo.com)
+> [![Pandas](https://img.shields.io/badge/Pandas-0A0A0F?style=flat-square&logo=pandas&logoColor=FF9966)](https://pandas.pydata.org)
+>
+> [![View →](https://img.shields.io/badge/View_Project_→-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/SMART_SHEET_-IRYM-1-)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- SECONDARY ROW -->
+<!-- ════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
 <td width="50%" valign="top">
 
-> ### 🖼 &nbsp;IRYM 0 &nbsp;—&nbsp; Image Generation
+> ### 🖼 &nbsp;IRYM 0 &nbsp;—&nbsp; Image Generation Platform
 >
-> Natural language → visual content pipeline. Fine-tuned LLMs connected to 2D image generation via async FastAPI and PostgreSQL.
+> Natural language → visual content pipeline connecting fine-tuned LLMs with 2D image generation. Async FastAPI architecture with PostgreSQL.
 >
 > [![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF4500)](https://fastapi.tiangolo.com)
 > [![Django](https://img.shields.io/badge/Django-0A0A0F?style=flat-square&logo=django&logoColor=FF7A3D)](https://djangoproject.com)
@@ -120,52 +215,25 @@
 > [![View →](https://img.shields.io/badge/View_→-FF4500?style=flat-square&logo=github&logoColor=white)](https://github.com/blackeagle686/IRYM_0.0)
 
 </td>
-<td width="50%" valign="top">
 
-> ### 📊 &nbsp;SmartSheet &nbsp;—&nbsp; NLP Data Dashboard
->
-> Upload CSV / Excel / JSON and query with natural language. Multi-user ML pipeline with automated orchestration and model versioning.
->
-> [![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF4500)](https://fastapi.tiangolo.com)
-> [![Pandas](https://img.shields.io/badge/Pandas-0A0A0F?style=flat-square&logo=pandas&logoColor=FF7A3D)](https://pandas.pydata.org)
-> [![Transformers](https://img.shields.io/badge/Transformers-0A0A0F?style=flat-square&logo=huggingface&logoColor=FF9966)](https://huggingface.co)
-> [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0F?style=flat-square&logo=postgresql&logoColor=FF4500)](https://postgresql.org)
->
-> [![View →](https://img.shields.io/badge/View_→-FF4500?style=flat-square&logo=github&logoColor=white)](https://github.com/blackeagle686/SMART_SHEET_-IRYM-1-)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-> ### 🤖 &nbsp;MyAgent &nbsp;—&nbsp; Autonomous AI Framework
->
-> Production-ready Python framework for autonomous AI agents with ReAct reasoning, tool execution, vector memory, and RAG retrieval.
->
-> - ReAct engine: Thought → Action → Observation
-> - Long-term vector knowledge storage
-> - Task decomposition & self-correction
-> - Async task engine & REST API
->
-> [![View →](https://img.shields.io/badge/View_→-FF4500?style=flat-square&logo=github&logoColor=white)](https://github.com/blackeagle686/MyAgent)
-
-</td>
 <td width="50%" valign="top">
 
 > ### 💬 &nbsp;Ask me about...
 >
 > ```python
 > skills = [
->   "Python",    "Django",    "FastAPI",
->   "PyTorch",   "LangChain", "RAG",
->   "MLOps",     "ChromaDB",  "Fine-tuning",
->   "PostgreSQL","System Design",
+>   "Python",      "Rust",        "Django",
+>   "FastAPI",     "PyTorch",     "LangChain",
+>   "RAG",         "MLOps",       "ReAct Agents",
+>   "ChromaDB",    "Qdrant",      "Fine-tuning",
+>   "PostgreSQL",  "System Design",
 > ]
 > location = "Egypt 🇪🇬"
 > status   = "open_to_work()"
 > ```
 
 </td>
+
 </tr>
 </table>
 
