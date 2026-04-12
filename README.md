@@ -1,53 +1,169 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=available+for+collaboration+%2F%2F+open+to+work" alt="status" />
+<!-- HERO BANNER — save hero-banner.svg in your repo root and link it here -->
+<img src="./hero-banner.svg" width="100%" alt="Mohamed Alaa — AI Engineer & Backend Developer"/>
 
-# Mohamed Alaa
+<br/>
 
-**AI Engineer & Backend Developer**
+<!-- Animated typing under the hero -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2500&pause=800&color=FF4500&center=true&vCenter=true&multiline=false&width=600&lines=pytorch+%7C+fastapi+%7C+langchain+%7C+chromadb+%7C+docker;training+models+%7C+shipping+backends+%7C+building+RAG+systems" alt="stack typing" />
 
-*Building systems that think and scale — bridging cutting-edge AI research with production-grade infrastructure*
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alaa-670867254)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathematecs1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686)
+[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=FF4500&labelColor=0A0A0F)](https://linkedin.com/in/mohammed-alaa-670867254)
+[![Email](https://img.shields.io/badge/-%20Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FF4500&labelColor=0A0A0F)](mailto:mathematecs1@gmail.com)
+[![GitHub](https://img.shields.io/badge/-%20GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=FF4500&labelColor=0A0A0F)](https://github.com/blackeagle686)
+
+</div>
+
+<br/>
+
+---
+
+## `01` &nbsp;—&nbsp; What I Build
+
+<!-- EXPERTISE CARDS — save expertise-cards.svg in your repo root -->
+<img src="./expertise-cards.svg" width="100%" alt="Backend Engineering | AI Engineering | Data & Databases"/>
+
+<br/>
+
+---
+
+## `02` &nbsp;—&nbsp; Tech Stack
+
+<div align="center">
+
+**━━━━━━━━━━━━━━━━ Languages ━━━━━━━━━━━━━━━━**
+
+[![Python](https://img.shields.io/badge/Python-0A0A0F?style=for-the-badge&logo=python&logoColor=FF4500)](https://python.org)
+[![C++](https://img.shields.io/badge/C++-0A0A0F?style=for-the-badge&logo=cplusplus&logoColor=FF7A3D)](https://isocpp.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0F?style=for-the-badge&logo=javascript&logoColor=FF9966)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-0A0A0F?style=for-the-badge&logo=mysql&logoColor=FF4500)](https://www.mysql.com)
+
+**━━━━━━━━━━━━━━━━ AI / ML ━━━━━━━━━━━━━━━━**
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0F?style=for-the-badge&logo=pytorch&logoColor=FF4500)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0F?style=for-the-badge&logo=tensorflow&logoColor=FF7A3D)](https://tensorflow.org)
+[![Keras](https://img.shields.io/badge/Keras-0A0A0F?style=for-the-badge&logo=keras&logoColor=FF4500)](https://keras.io)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0F?style=for-the-badge&logo=scikitlearn&logoColor=FF9966)](https://scikit-learn.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0F?style=for-the-badge&logo=opencv&logoColor=FF7A3D)](https://opencv.org)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0A0F?style=for-the-badge&logo=huggingface&logoColor=FF4500)](https://huggingface.co)
+[![LangChain](https://img.shields.io/badge/LangChain-0A0A0F?style=for-the-badge&logo=chainlink&logoColor=FF9966)](https://langchain.com)
+
+**━━━━━━━━━━━━━━━━ Backend & APIs ━━━━━━━━━━━━━━━━**
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=for-the-badge&logo=fastapi&logoColor=FF4500)](https://fastapi.tiangolo.com)
+[![Django](https://img.shields.io/badge/Django-0A0A0F?style=for-the-badge&logo=django&logoColor=FF7A3D)](https://djangoproject.com)
+[![Flask](https://img.shields.io/badge/Flask-0A0A0F?style=for-the-badge&logo=flask&logoColor=FF9966)](https://flask.palletsprojects.com)
+[![GraphQL](https://img.shields.io/badge/GraphQL-0A0A0F?style=for-the-badge&logo=graphql&logoColor=FF4500)](https://graphql.org)
+[![REST](https://img.shields.io/badge/REST_API-0A0A0F?style=for-the-badge&logo=postman&logoColor=FF7A3D)](https://www.postman.com)
+
+**━━━━━━━━━━━━━━━━ Databases & Vector DBs ━━━━━━━━━━━━━━━━**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0F?style=for-the-badge&logo=postgresql&logoColor=FF4500)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-0A0A0F?style=for-the-badge&logo=mysql&logoColor=FF7A3D)](https://mysql.com)
+[![Redis](https://img.shields.io/badge/Redis-0A0A0F?style=for-the-badge&logo=redis&logoColor=FF4500)](https://redis.io)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-0A0A0F?style=for-the-badge&logo=databricks&logoColor=FF9966)](https://trychroma.com)
+[![FAISS](https://img.shields.io/badge/FAISS-0A0A0F?style=for-the-badge&logo=meta&logoColor=FF7A3D)](https://github.com/facebookresearch/faiss)
+[![SQLite](https://img.shields.io/badge/SQLite-0A0A0F?style=for-the-badge&logo=sqlite&logoColor=FF4500)](https://sqlite.org)
+
+**━━━━━━━━━━━━━━━━ DevOps & Tools ━━━━━━━━━━━━━━━━**
+
+[![Docker](https://img.shields.io/badge/Docker-0A0A0F?style=for-the-badge&logo=docker&logoColor=FF4500)](https://docker.com)
+[![Linux](https://img.shields.io/badge/Linux-0A0A0F?style=for-the-badge&logo=linux&logoColor=FF7A3D)](https://kernel.org)
+[![Git](https://img.shields.io/badge/Git-0A0A0F?style=for-the-badge&logo=git&logoColor=FF4500)](https://git-scm.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0F?style=for-the-badge&logo=githubactions&logoColor=FF9966)](https://github.com/features/actions)
 
 </div>
 
 ---
 
-## `01` — What I Build
+## `03` &nbsp;—&nbsp; Featured Projects
+
+<br/>
+
+> ### 🔬 &nbsp;HDA-v3 &nbsp;—&nbsp; Health Data Analysis Assistant &nbsp;`FLAGSHIP`
+>
+> AI-powered histopathology diagnostic assistant combining EfficientNet-B0 classification, Qwen2-VL vision-language model, RAG with ChromaDB, and Grad-CAM visual explanations. Detects **Colon Adenocarcinoma**, **Lung Adenocarcinoma**, and **Squamous Cell Carcinoma** with session-based clinical AI chat.
+>
+> | Feature | Detail |
+> |---|---|
+> | 🎯 Classification | Fine-tuned EfficientNet-B0 — high-confidence cancer detection |
+> | 📝 Clinical Reports | Qwen2-VL generates natural language pathological descriptions |
+> | 💬 Interactive Chat | TinyLlama / Gemini-powered session consultation |
+> | 📚 Medical RAG | ChromaDB retrieval from clinical guidelines — cited answers |
+> | 🔥 Visual Evidence | Grad-CAM heatmaps on pathology slides |
+>
+> [![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0F?style=flat-square&logo=pytorch&logoColor=FF4500)](https://pytorch.org)
+> [![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF7A3D)](https://fastapi.tiangolo.com)
+> [![LangChain](https://img.shields.io/badge/LangChain-0A0A0F?style=flat-square&logo=chainlink&logoColor=FF4500)](#)
+> [![ChromaDB](https://img.shields.io/badge/ChromaDB-0A0A0F?style=flat-square&logo=databricks&logoColor=FF9966)](#)
+> [![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0A0F?style=flat-square&logo=huggingface&logoColor=FF7A3D)](https://huggingface.co)
+>
+> [![View Project →](https://img.shields.io/badge/View_Project_→-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/hda_v3)
+
+<br/>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**⬡ Backend Engineering**
-- RESTful & GraphQL APIs
-- Microservices architecture
-- Query optimization & caching
-- Auth & security layers
-- Unit & integration testing
-
-</td>
-<td width="33%" valign="top">
-
-**◈ AI Engineering**
-- Model training & fine-tuning
-- Production ML deployment
-- MLOps & CI/CD pipelines
-- NLP & Computer Vision
-- RAG system design
+> ### 🖼 &nbsp;IRYM 0 &nbsp;—&nbsp; Image Generation
+>
+> Natural language → visual content pipeline. Fine-tuned LLMs connected to 2D image generation via async FastAPI and PostgreSQL.
+>
+> [![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF4500)](https://fastapi.tiangolo.com)
+> [![Django](https://img.shields.io/badge/Django-0A0A0F?style=flat-square&logo=django&logoColor=FF7A3D)](https://djangoproject.com)
+> [![Transformers](https://img.shields.io/badge/Transformers-0A0A0F?style=flat-square&logo=huggingface&logoColor=FF9966)](https://huggingface.co)
+> [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0F?style=flat-square&logo=postgresql&logoColor=FF4500)](https://postgresql.org)
+>
+> [![View →](https://img.shields.io/badge/View_→-FF4500?style=flat-square&logo=github&logoColor=white)](https://github.com/blackeagle686/IRYM_0.0)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**◎ Data & Databases**
-- Schema design & normalization
-- Performance tuning
-- Replication & sharding
-- Vector database integration
-- PostgreSQL, MySQL, Redis
+> ### 📊 &nbsp;SmartSheet &nbsp;—&nbsp; NLP Data Dashboard
+>
+> Upload CSV / Excel / JSON and query with natural language. Multi-user ML pipeline with automated orchestration and model versioning.
+>
+> [![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF4500)](https://fastapi.tiangolo.com)
+> [![Pandas](https://img.shields.io/badge/Pandas-0A0A0F?style=flat-square&logo=pandas&logoColor=FF7A3D)](https://pandas.pydata.org)
+> [![Transformers](https://img.shields.io/badge/Transformers-0A0A0F?style=flat-square&logo=huggingface&logoColor=FF9966)](https://huggingface.co)
+> [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0F?style=flat-square&logo=postgresql&logoColor=FF4500)](https://postgresql.org)
+>
+> [![View →](https://img.shields.io/badge/View_→-FF4500?style=flat-square&logo=github&logoColor=white)](https://github.com/blackeagle686/SMART_SHEET_-IRYM-1-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> ### 🤖 &nbsp;MyAgent &nbsp;—&nbsp; Autonomous AI Framework
+>
+> Production-ready Python framework for autonomous AI agents with ReAct reasoning, tool execution, vector memory, and RAG retrieval.
+>
+> - ReAct engine: Thought → Action → Observation
+> - Long-term vector knowledge storage
+> - Task decomposition & self-correction
+> - Async task engine & REST API
+>
+> [![View →](https://img.shields.io/badge/View_→-FF4500?style=flat-square&logo=github&logoColor=white)](https://github.com/blackeagle686/MyAgent)
+
+</td>
+<td width="50%" valign="top">
+
+> ### 💬 &nbsp;Ask me about...
+>
+> ```python
+> skills = [
+>   "Python",    "Django",    "FastAPI",
+>   "PyTorch",   "LangChain", "RAG",
+>   "MLOps",     "ChromaDB",  "Fine-tuning",
+>   "PostgreSQL","System Design",
+> ]
+> location = "Egypt 🇪🇬"
+> status   = "open_to_work()"
+> ```
 
 </td>
 </tr>
@@ -55,161 +171,35 @@
 
 ---
 
-## `02` — Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Databases & Vector DBs**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5A5AFA?style=flat-square&logo=database&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-009688?style=flat-square&logo=database&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-## `03` — Featured Projects
-
-### 🔬 HDA-v3 — Health Data Analysis Assistant `[Flagship]`
-
-> AI-powered histopathology diagnostic assistant combining deep learning classification with large vision-language models and RAG for comprehensive medical slide analysis.
-
-**Key Features:**
-- **Precision Classification** — Detects Colon Adenocarcinoma, Lung Adenocarcinoma, and Squamous Cell Carcinoma using fine-tuned EfficientNet-B0
-- **AI Clinical Reports** — Leverages Qwen2-VL to generate natural language pathological descriptions
-- **Medical RAG** — ChromaDB-backed retrieval from clinical guidelines with cited, evidence-based answers
-- **Interactive Chat** — Session-based consultation via TinyLlama / Gemini for follow-up queries
-- **Visual Evidence** — Grad-CAM heatmaps highlight critical regions in pathology slides
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5A5AFA?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-[![View Project](https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/hda_v3)
-
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🖼 IRYM 0 — Image Generation Platform
-
-Natural language → visual content pipeline connecting fine-tuned LLMs with 2D image generation. Built with async FastAPI and PostgreSQL.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-[![View](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/blackeagle686/IRYM_0.0)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 SmartSheet — NLP Data Dashboard
-
-Upload CSV, Excel, or JSON datasets and query them with natural language. Multi-user collaborative ML pipeline with model versioning.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-[![View](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/blackeagle686/SMART_SHEET_-IRYM-1-)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 MyAgent — Autonomous AI Framework
-
-Production-ready Python framework for building autonomous AI agents with ReAct reasoning, tool execution, vector memory, and RAG retrieval.
-
-**Planned:**
-- ReAct reasoning engine (Thought → Action → Observation)
-- Long-term vector knowledge storage
-- Task decomposition & self-correction
-- Async task engine & REST API interface
-
-[![View](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/blackeagle686/MyAgent)
-
-</td>
-<td width="50%" valign="top">
-
-### Ask me about...
-
-```
-python      django      fastapi
-pytorch     langchain   system design
-rag         mlops       api development
-postgresql  chromadb    fine-tuning
-```
-
-**Location:** Egypt 🇪🇬
-**Focus:** Scalable AI systems, clean architecture, high-performance APIs
-
-</td>
-</tr>
-</table>
-
----
-
-## `04` — GitHub Analytics
+## `04` &nbsp;—&nbsp; GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=blackeagle686&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=dark&hide_border=true&background=0A0A0F&ring=FF4500&fire=FF7A3D&currStreakLabel=FF4500&sideLabels=FF7A3D&dates=666666&stroke=1A1A24" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=blackeagle686&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=FF4500&icon_color=FF7A3D&text_color=F0EEE8&count_private=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle686&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=FF4500&text_color=F0EEE8" />
 
 </div>
 
 ---
 
-## `05` — Let's Connect
+## `05` &nbsp;—&nbsp; Let's Connect
 
 <div align="center">
 
-I'm always open to collaborating on interesting projects, discussing AI architecture, or exploring new opportunities.
+*Open to collaborations, AI architecture discussions, and new opportunities*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alaa-670867254)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathematecs1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=FF4500)](https://linkedin.com/in/mohammed-alaa-670867254)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FF4500)](mailto:mathematecs1@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=FF4500)](https://github.com/blackeagle686)
 
 <br/>
 
@@ -217,6 +207,6 @@ I'm always open to collaborating on interesting projects, discussing AI architec
 
 <br/>
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+`// "Code is like humor. When you have to explain it, it's bad." — Cory House`
 
 </div>
