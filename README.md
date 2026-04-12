@@ -101,6 +101,97 @@
 
 <img src="https://img.shields.io/badge/FLAGSHIP-FF4500?style=for-the-badge&logo=award&logoColor=white" alt="Flagship"/>
 
+## 🤖 MyAgent v1.2 — Autonomous AI Agent
+
+> **Hybrid Rust + Python framework with ReAct reasoning, self-reflection, and built-in AI tooling**
+
+<br/>
+
+| Capability | Detail |
+|:---|:---|
+| 🔄 **ReAct Loop** | Thought → Action → Observation cycle |
+| ⚡ **Rust Core** | **12.8× faster** execution via PyO3 |
+| 🧠 **Self-Reflection** | Persistent learning & memory system |
+| 🧰 **Built-in Tools** | RAG · File System · REPL |
+| �️ **Interface** | PySide6 GUI + CLI modes |
+
+<br/>
+
+[![Python](https://img.shields.io/badge/Python-0A0A0F?style=flat-square&logo=python&logoColor=FF4500)](https://python.org)
+[![Rust](https://img.shields.io/badge/Rust-0A0A0F?style=flat-square&logo=rust&logoColor=FF7A3D)](https://rust-lang.org)
+[![PyO3](https://img.shields.io/badge/PyO3-0A0A0F?style=flat-square&logo=rust&logoColor=FF9966)](https://pyo3.rs)
+[![LangChain](https://img.shields.io/badge/LangChain-0A0A0F?style=flat-square&logo=chainlink&logoColor=FF9966)](https://langchain.com)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-0A0A0F?style=flat-square&logo=databricks&logoColor=FF9966)](https://trychroma.com)
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/MyAgent)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+### � &nbsp; Core Infrastructure
+
+<div align="center">
+
+<table width="90%">
+<tr>
+<td align="center" style="background:#0A0A0F; border-radius:12px; padding:24px;">
+
+<img src="https://img.shields.io/badge/MODULAR_SDK-0A0A0F?style=for-the-badge&logo=layers&logoColor=FF4500" alt="SDK"/>
+
+## � IRYM SDK — Modular AI Backend Infrastructure
+
+> **Production-ready, dependency-injected SDK for caching, RAG, queues, LLMs, and vector search**
+
+<br/>
+
+| Capability | Detail |
+|:---|:---|
+| � **DI Container** | Centralized dependency injection |
+| 🎯 **Interface-First** | Clean, swappable architectural layers |
+| ⚡ **Async-First** | Fully non-blocking design |
+| 🔍 **Built-in RAG** | End-to-end retrieval pipeline |
+| �️ **Multi-Store** | Redis · Qdrant · SQLAlchemy |
+
+<br/>
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF4500)](https://fastapi.tiangolo.com)
+[![Redis](https://img.shields.io/badge/Redis-0A0A0F?style=flat-square&logo=redis&logoColor=FF7A3D)](https://redis.io)
+[![Qdrant](https://img.shields.io/badge/Qdrant-0A0A0F?style=flat-square&logo=vectorworks&logoColor=FF9966)](https://qdrant.tech)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0A0A0F?style=flat-square&logo=python&logoColor=FF9966)](https://sqlalchemy.org)
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/IRYM_sdk)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+### 🔬 &nbsp; AI Research System
+
+<div align="center">
+
+<table width="90%">
+<tr>
+<td align="center" style="background:#0A0A0F; border-radius:12px; padding:24px;">
+
+<img src="https://img.shields.io/badge/MEDICAL_AI-0A0A0F?style=for-the-badge&logo=healthicons&logoColor=FF4500" alt="Medical AI"/>
+
 ## 🔬 HDA-v3 — Health Data Analysis Assistant
 
 > **AI-powered histopathology diagnostic system for cancer detection & clinical reasoning**
@@ -112,8 +203,8 @@
 | 🎯 **Cancer Classification** | Fine-tuned EfficientNet-B0 — Colon · Lung · Squamous |
 | 📝 **Clinical Reports** | Qwen2-VL vision-language reasoning |
 | 💬 **AI Consultation** | Session-based medical assistant chat |
-| 📚 **Medical RAG** | ChromaDB + clinical guideline retrieval |
-| 🔥 **Explainability** | Grad-CAM visual heatmaps |
+| � **Medical RAG** | ChromaDB + clinical guideline retrieval |
+| � **Explainability** | Grad-CAM visual heatmaps |
 
 <br/>
 
@@ -132,82 +223,6 @@
 </table>
 
 </div>
-
-<br/>
-
----
-
-### 🤖 &nbsp; Core AI Systems
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-![Agent](https://img.shields.io/badge/AUTONOMOUS_AGENT-0A0A0F?style=flat-square&logo=robot&logoColor=FF4500)
-
-### 🤖 MyAgent v1.2
-
-*Autonomous AI Agent Framework*
-
-</div>
-
-| Feature | Detail |
-|:---|:---|
-| 🔄 **ReAct Loop** | Thought → Action → Observation |
-| ⚡ **Rust Core** | **12.8× faster** execution |
-| 🧠 **Self-Reflection** | Learning & memory system |
-| 🧰 **Tools** | RAG · File System · REPL |
-| 🖥 **Interface** | PySide6 GUI + CLI |
-
-<br/>
-
-[![Python](https://img.shields.io/badge/Python-0A0A0F?style=flat-square&logo=python&logoColor=FF4500)](https://python.org)
-[![Rust](https://img.shields.io/badge/Rust-0A0A0F?style=flat-square&logo=rust&logoColor=FF7A3D)](https://rust-lang.org)
-[![PyO3](https://img.shields.io/badge/PyO3-0A0A0F?style=flat-square&logo=rust&logoColor=FF9966)](https://pyo3.rs)
-
-<br/>
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/MyAgent)
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-![SDK](https://img.shields.io/badge/MODULAR_SDK-0A0A0F?style=flat-square&logo=puzzle&logoColor=FF4500)
-
-### 🧠 IRYM SDK
-
-*Modular AI Backend Infrastructure*
-
-</div>
-
-| Feature | Detail |
-|:---|:---|
-| 💉 **DI Container** | Centralized dependency injection |
-| 🎯 **Interface-First** | Clean architectural boundaries |
-| ⚡ **Async-First** | Non-blocking throughout |
-| 🔍 **Built-in RAG** | End-to-end retrieval pipeline |
-| 🗄️ **Multi-Store** | Redis · Qdrant · SQLAlchemy |
-
-<br/>
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF4500)](https://fastapi.tiangolo.com)
-[![Redis](https://img.shields.io/badge/Redis-0A0A0F?style=flat-square&logo=redis&logoColor=FF7A3D)](https://redis.io)
-[![Qdrant](https://img.shields.io/badge/Qdrant-0A0A0F?style=flat-square&logo=vectorworks&logoColor=FF9966)](https://qdrant.tech)
-
-<br/>
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackeagle686/IRYM_sdk)
-
-</td>
-
-</tr>
-</table>
 
 <br/>
 
@@ -306,13 +321,13 @@ location = "Egypt 🇪🇬"
 
 <div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=blackeagle686&theme=dark&hide_border=true&background=0A0A0F&ring=FF4500&fire=FF7A3D&currStreakLabel=FF4500&sideLabels=FF7A3D&dates=666666&stroke=1A1A24" />
+<img height="160" src="https://github-readme-streak-stats.demolab.com/?user=blackeagle686&theme=dark&hide_border=true&background=0A0A0F&ring=FF4500&fire=FF7A3D&currStreakLabel=FF4500&sideLabels=FF7A3D&dates=666666&stroke=1A1A24" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=blackeagle686&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=FF4500&icon_color=FF7A3D&text_color=F0EEE8&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=blackeagle686&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=FF4500&icon_color=FF7A3D&text_color=F0EEE8&count_private=true&rank_icon=github" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle686&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=FF4500&text_color=F0EEE8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle686&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=FF4500&text_color=F0EEE8&langs_count=8" />
 
 </div>
 
