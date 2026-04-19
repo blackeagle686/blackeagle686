@@ -9,13 +9,24 @@
       <stop offset="60%" style="stop-color:#FF7A3D"/>
       <stop offset="100%" style="stop-color:#FF450000"/>
     </linearGradient>
+    <linearGradient id="lg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6A00"/>
+      <stop offset="100%" stop-color="#FF3D00"/>
+    </linearGradient>
+    <linearGradient id="lg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF9A3C"/>
+      <stop offset="100%" stop-color="#FF6000"/>
+    </linearGradient>
+    <linearGradient id="lg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB347"/>
+      <stop offset="100%" stop-color="#FF7A3D"/>
+    </linearGradient>
     <filter id="blur-glow">
       <feGaussianBlur stdDeviation="22" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="leaf-glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="lf">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#FF4500" flood-opacity="0.5"/>
     </filter>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FF4500" stroke-width="0.4" stroke-opacity="0.14"/>
@@ -42,7 +53,7 @@
 
     <!-- Name -->
     <text x="48" y="138" font-family="Arial Black, Arial" font-size="60" font-weight="900" fill="#FFFFFF" letter-spacing="-1">Mohamed</text>
-    <text x="48" y="198" font-family="Arial Black, Arial" font-size="60" font-weight="900" fill="#FF4500"  letter-spacing="-1">Alaa.</text>
+    <text x="48" y="198" font-family="Arial Black, Arial" font-size="60" font-weight="900" fill="#FF4500" letter-spacing="-1">Alaa.</text>
 
     <!-- Accent line -->
     <rect x="48" y="213" width="72" height="4" rx="2" fill="#FF4500"/>
@@ -53,47 +64,80 @@
     <!-- Tagline -->
     <text x="48" y="270" font-family="'Courier New', monospace" font-size="13" fill="#BBBBBB" letter-spacing="0.3">// Building systems that think and scale</text>
 
-    <!-- Autumn Leaves -->
+    <!-- ======= AUTUMN MAPLE LEAVES (user's path) ======= -->
 
-    <!-- Leaf 1 - large, top right area -->
-    <g filter="url(#leaf-glow)" opacity="0.92">
-      <text x="720" y="90" font-size="52" font-family="serif" transform="rotate(-25, 746, 72)">🍁</text>
-    </g>
-    <animateTransform xlink:href="#leaf1" attributeName="transform" type="rotate" from="-25 746 72" to="-20 746 72" dur="3.5s" repeatCount="indefinite" additive="sum"/>
-
-    <!-- Leaf 2 - medium, upper right -->
-    <g filter="url(#leaf-glow)" opacity="0.80">
-      <text x="820" y="60" font-size="34" font-family="serif" transform="rotate(15, 837, 42)">🍁</text>
-    </g>
-
-    <!-- Leaf 3 - small, far right mid -->
-    <g filter="url(#leaf-glow)" opacity="0.65">
-      <text x="855" y="155" font-size="24" font-family="serif" transform="rotate(30, 867, 143)">🍁</text>
+    <!-- LEAF 1: large, top right, dark orange, rotated -30deg -->
+    <g transform="translate(755,72) rotate(-30) scale(1.8)" opacity="0.95" filter="url(#lf)">
+      <path d="M0,-22 L4,-14 L12,-16 L10,-8 L18,-6 L12,-2 L16,6 L6,4 L4,14 L0,8 L-4,14 L-6,4 L-16,6 L-12,-2 L-18,-6 L-10,-8 L-12,-16 L-4,-14 Z" fill="url(#lg1)"/>
+      <line x1="0" y1="-8" x2="0" y2="10" stroke="#8B2000" stroke-width="0.7" stroke-opacity="0.55"/>
+      <line x1="0" y1="0" x2="9" y2="-4" stroke="#8B2000" stroke-width="0.5" stroke-opacity="0.4"/>
+      <line x1="0" y1="0" x2="-9" y2="-4" stroke="#8B2000" stroke-width="0.5" stroke-opacity="0.4"/>
+      <line x1="0" y1="-10" x2="7" y2="-16" stroke="#8B2000" stroke-width="0.5" stroke-opacity="0.35"/>
+      <line x1="0" y1="-10" x2="-7" y2="-16" stroke="#8B2000" stroke-width="0.5" stroke-opacity="0.35"/>
+      <line x1="0" y1="10" x2="0" y2="16" stroke="#8B2000" stroke-width="1.3" stroke-linecap="round"/>
     </g>
 
-    <!-- Leaf 4 - large, bottom right -->
-    <g filter="url(#leaf-glow)" opacity="0.88">
-      <text x="700" y="238" font-size="46" font-family="serif" transform="rotate(-10, 723, 215)">🍁</text>
+    <!-- LEAF 2: medium, top far right, warm orange, rotated +22deg -->
+    <g transform="translate(852,50) rotate(22) scale(1.15)" opacity="0.82">
+      <path d="M0,-22 L4,-14 L12,-16 L10,-8 L18,-6 L12,-2 L16,6 L6,4 L4,14 L0,8 L-4,14 L-6,4 L-16,6 L-12,-2 L-18,-6 L-10,-8 L-12,-16 L-4,-14 Z" fill="url(#lg2)"/>
+      <line x1="0" y1="-8" x2="0" y2="10" stroke="#994000" stroke-width="0.7" stroke-opacity="0.5"/>
+      <line x1="0" y1="0" x2="9" y2="-4" stroke="#994000" stroke-width="0.5" stroke-opacity="0.4"/>
+      <line x1="0" y1="0" x2="-9" y2="-4" stroke="#994000" stroke-width="0.5" stroke-opacity="0.4"/>
+      <line x1="0" y1="10" x2="0" y2="16" stroke="#994000" stroke-width="1.3" stroke-linecap="round"/>
     </g>
 
-    <!-- Leaf 5 - medium, bottom far right -->
-    <g filter="url(#leaf-glow)" opacity="0.70">
-      <text x="808" y="272" font-size="30" font-family="serif" transform="rotate(20, 823, 257)">🍁</text>
+    <!-- LEAF 3: small, right edge mid, gold-orange, rotated +38deg -->
+    <g transform="translate(873,158) rotate(38) scale(0.78)" opacity="0.60">
+      <path d="M0,-22 L4,-14 L12,-16 L10,-8 L18,-6 L12,-2 L16,6 L6,4 L4,14 L0,8 L-4,14 L-6,4 L-16,6 L-12,-2 L-18,-6 L-10,-8 L-12,-16 L-4,-14 Z" fill="url(#lg3)"/>
+      <line x1="0" y1="-8" x2="0" y2="10" stroke="#AA6600" stroke-width="0.7" stroke-opacity="0.5"/>
+      <line x1="0" y1="10" x2="0" y2="16" stroke="#AA6600" stroke-width="1.3" stroke-linecap="round"/>
     </g>
 
-    <!-- Leaf 6 - tiny accent, corner -->
-    <g filter="url(#leaf-glow)" opacity="0.50">
-      <text x="858" y="210" font-size="18" font-family="serif" transform="rotate(-40, 867, 201)">🍁</text>
+    <!-- LEAF 4: large, lower right, dark orange, rotated -12deg -->
+    <g transform="translate(730,222) rotate(-12) scale(1.6)" opacity="0.92" filter="url(#lf)">
+      <path d="M0,-22 L4,-14 L12,-16 L10,-8 L18,-6 L12,-2 L16,6 L6,4 L4,14 L0,8 L-4,14 L-6,4 L-16,6 L-12,-2 L-18,-6 L-10,-8 L-12,-16 L-4,-14 Z" fill="url(#lg1)"/>
+      <line x1="0" y1="-8" x2="0" y2="10" stroke="#8B2000" stroke-width="0.7" stroke-opacity="0.6"/>
+      <line x1="0" y1="0" x2="9" y2="-4" stroke="#8B2000" stroke-width="0.5" stroke-opacity="0.4"/>
+      <line x1="0" y1="0" x2="-9" y2="-4" stroke="#8B2000" stroke-width="0.5" stroke-opacity="0.4"/>
+      <line x1="0" y1="-10" x2="7" y2="-16" stroke="#8B2000" stroke-width="0.5" stroke-opacity="0.35"/>
+      <line x1="0" y1="-10" x2="-7" y2="-16" stroke="#8B2000" stroke-width="0.5" stroke-opacity="0.35"/>
+      <line x1="0" y1="10" x2="0" y2="16" stroke="#8B2000" stroke-width="1.3" stroke-linecap="round"/>
     </g>
 
-    <!-- Leaf 7 - medium floating mid-right -->
-    <g filter="url(#leaf-glow)" opacity="0.75">
-      <text x="770" y="170" font-size="28" font-family="serif" transform="rotate(10, 784, 156)">🍁</text>
+    <!-- LEAF 5: medium, bottom far right, amber, rotated +20deg -->
+    <g transform="translate(832,252) rotate(20) scale(1.1)" opacity="0.72">
+      <path d="M0,-22 L4,-14 L12,-16 L10,-8 L18,-6 L12,-2 L16,6 L6,4 L4,14 L0,8 L-4,14 L-6,4 L-16,6 L-12,-2 L-18,-6 L-10,-8 L-12,-16 L-4,-14 Z" fill="url(#lg3)"/>
+      <line x1="0" y1="-8" x2="0" y2="10" stroke="#AA6600" stroke-width="0.7" stroke-opacity="0.5"/>
+      <line x1="0" y1="0" x2="9" y2="-4" stroke="#AA6600" stroke-width="0.5" stroke-opacity="0.4"/>
+      <line x1="0" y1="0" x2="-9" y2="-4" stroke="#AA6600" stroke-width="0.5" stroke-opacity="0.4"/>
+      <line x1="0" y1="10" x2="0" y2="16" stroke="#AA6600" stroke-width="1.3" stroke-linecap="round"/>
     </g>
 
-    <!-- Leaf 8 - small top far right -->
-    <g filter="url(#leaf-glow)" opacity="0.55">
-      <text x="876" y="100" font-size="20" font-family="serif" transform="rotate(-15, 886, 90)">🍁</text>
+    <!-- LEAF 6: tiny accent corner, rotated -45deg -->
+    <g transform="translate(872,205) rotate(-45) scale(0.60)" opacity="0.45">
+      <path d="M0,-22 L4,-14 L12,-16 L10,-8 L18,-6 L12,-2 L16,6 L6,4 L4,14 L0,8 L-4,14 L-6,4 L-16,6 L-12,-2 L-18,-6 L-10,-8 L-12,-16 L-4,-14 Z" fill="url(#lg2)"/>
+      <line x1="0" y1="10" x2="0" y2="16" stroke="#994000" stroke-width="1.3" stroke-linecap="round"/>
+    </g>
+
+    <!-- LEAF 7: medium, mid-right floating, rotated +10deg -->
+    <g transform="translate(800,150) rotate(10) scale(1.0)" opacity="0.76">
+      <path d="M0,-22 L4,-14 L12,-16 L10,-8 L18,-6 L12,-2 L16,6 L6,4 L4,14 L0,8 L-4,14 L-6,4 L-16,6 L-12,-2 L-18,-6 L-10,-8 L-12,-16 L-4,-14 Z" fill="url(#lg1)"/>
+      <line x1="0" y1="-8" x2="0" y2="10" stroke="#8B2000" stroke-width="0.7" stroke-opacity="0.5"/>
+      <line x1="0" y1="0" x2="9" y2="-4" stroke="#8B2000" stroke-width="0.5" stroke-opacity="0.4"/>
+      <line x1="0" y1="0" x2="-9" y2="-4" stroke="#8B2000" stroke-width="0.5" stroke-opacity="0.4"/>
+      <line x1="0" y1="10" x2="0" y2="16" stroke="#8B2000" stroke-width="1.3" stroke-linecap="round"/>
+    </g>
+
+    <!-- LEAF 8: small, top far right corner, rotated -18deg -->
+    <g transform="translate(886,90) rotate(-18) scale(0.68)" opacity="0.50">
+      <path d="M0,-22 L4,-14 L12,-16 L10,-8 L18,-6 L12,-2 L16,6 L6,4 L4,14 L0,8 L-4,14 L-6,4 L-16,6 L-12,-2 L-18,-6 L-10,-8 L-12,-16 L-4,-14 Z" fill="url(#lg3)"/>
+      <line x1="0" y1="10" x2="0" y2="16" stroke="#AA6600" stroke-width="1.3" stroke-linecap="round"/>
+    </g>
+
+    <!-- LEAF 9: tiny, bottom left of cluster, rotated +28deg -->
+    <g transform="translate(682,265) rotate(28) scale(0.65)" opacity="0.38">
+      <path d="M0,-22 L4,-14 L12,-16 L10,-8 L18,-6 L12,-2 L16,6 L6,4 L4,14 L0,8 L-4,14 L-6,4 L-16,6 L-12,-2 L-18,-6 L-10,-8 L-12,-16 L-4,-14 Z" fill="url(#lg2)"/>
+      <line x1="0" y1="10" x2="0" y2="16" stroke="#994000" stroke-width="1.3" stroke-linecap="round"/>
     </g>
 
   </g>
