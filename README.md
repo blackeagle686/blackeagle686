@@ -10,7 +10,7 @@
 
 <br/>
 
-`I love autumn 🍁 and keeping things simple 🍂 — and if someone wants to leave, let them go. 🧡`
+`I love autumn 🍁 and keeping things simple 🍂 — and if someone wants to leave, let them go 🧡.`
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=FF4500&labelColor=0A0A0F)](https://linkedin.com/in/mohammed-alaa-670867254)
