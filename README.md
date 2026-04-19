@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER — save hero-banner.svg in your repo root and link it here -->
-<img src="./hero-banner.svg" width="100%" alt="Mohamed Alaa — AI Engineer & Backend Developer"/>
+<img src="./hero-banner2.svg" width="100%" alt="Mohamed Alaa — AI Engineer & Backend Developer"/>
 
 <br/>
 
