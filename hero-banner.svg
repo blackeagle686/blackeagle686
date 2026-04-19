@@ -13,6 +13,10 @@
       <feGaussianBlur stdDeviation="22" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <filter id="leaf-glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FF4500" stroke-width="0.4" stroke-opacity="0.14"/>
     </pattern>
@@ -49,39 +53,48 @@
     <!-- Tagline -->
     <text x="48" y="270" font-family="'Courier New', monospace" font-size="13" fill="#BBBBBB" letter-spacing="0.3">// Building systems that think and scale</text>
 
-    <!-- Code block -->
-    <rect x="566" y="46" width="306" height="214" rx="12" fill="#0D0D14" stroke="#FF4500" stroke-width="0.8" stroke-opacity="0.35"/>
-    <rect x="566" y="46" width="306" height="32"  rx="12" fill="#111118"/>
-    <rect x="566" y="64"  width="306" height="14"  fill="#111118"/>
-    <circle cx="589" cy="62" r="6" fill="#FF4500" opacity="0.75"/>
-    <circle cx="607" cy="62" r="6" fill="#FF7A3D" opacity="0.55"/>
-    <circle cx="625" cy="62" r="6" fill="#FF9966" opacity="0.4"/>
-    <text x="648" y="68" font-family="'Courier New', monospace" font-size="12" fill="#FFFFFF" opacity="0.4">profile.py</text>
+    <!-- Autumn Leaves -->
 
-    <text x="584" y="108" font-family="'Courier New', monospace" font-size="15" fill="#FF4500">class</text>
-    <text x="630" y="108" font-family="'Courier New', monospace" font-size="15" fill="#FFFFFF">Engineer</text>
-    <text x="710" y="108" font-family="'Courier New', monospace" font-size="15" fill="#FFFFFF" opacity="0.45">:</text>
+    <!-- Leaf 1 - large, top right area -->
+    <g filter="url(#leaf-glow)" opacity="0.92">
+      <text x="720" y="90" font-size="52" font-family="serif" transform="rotate(-25, 746, 72)">🍁</text>
+    </g>
+    <animateTransform xlink:href="#leaf1" attributeName="transform" type="rotate" from="-25 746 72" to="-20 746 72" dur="3.5s" repeatCount="indefinite" additive="sum"/>
 
-    <text x="584" y="132" font-family="'Courier New', monospace" font-size="14" fill="#BBBBBB">  role</text>
-    <text x="626" y="132" font-family="'Courier New', monospace" font-size="14" fill="#BBBBBB"> = </text>
-    <text x="650" y="132" font-family="'Courier New', monospace" font-size="14" fill="#FF7A3D">"AI + Backend"</text>
+    <!-- Leaf 2 - medium, upper right -->
+    <g filter="url(#leaf-glow)" opacity="0.80">
+      <text x="820" y="60" font-size="34" font-family="serif" transform="rotate(15, 837, 42)">🍁</text>
+    </g>
 
-    <text x="584" y="156" font-family="'Courier New', monospace" font-size="14" fill="#BBBBBB">  stack</text>
-    <text x="636" y="156" font-family="'Courier New', monospace" font-size="14" fill="#BBBBBB"> = </text>
-    <text x="658" y="156" font-family="'Courier New', monospace" font-size="13" fill="#FF7A3D">["PyTorch","Django"]</text>
+    <!-- Leaf 3 - small, far right mid -->
+    <g filter="url(#leaf-glow)" opacity="0.65">
+      <text x="855" y="155" font-size="24" font-family="serif" transform="rotate(30, 867, 143)">🍁</text>
+    </g>
 
-    <text x="584" y="180" font-family="'Courier New', monospace" font-size="14" fill="#BBBBBB">  focus</text>
-    <text x="636" y="180" font-family="'Courier New', monospace" font-size="14" fill="#BBBBBB"> = </text>
-    <text x="658" y="180" font-family="'Courier New', monospace" font-size="14" fill="#FF7A3D">"scalable AI"</text>
+    <!-- Leaf 4 - large, bottom right -->
+    <g filter="url(#leaf-glow)" opacity="0.88">
+      <text x="700" y="238" font-size="46" font-family="serif" transform="rotate(-10, 723, 215)">🍁</text>
+    </g>
 
-    <text x="584" y="204" font-family="'Courier New', monospace" font-size="14" fill="#BBBBBB">  location</text>
-    <text x="660" y="204" font-family="'Courier New', monospace" font-size="14" fill="#BBBBBB"> = </text>
-    <text x="682" y="204" font-family="'Courier New', monospace" font-size="14" fill="#FF7A3D">"Egypt"</text>
+    <!-- Leaf 5 - medium, bottom far right -->
+    <g filter="url(#leaf-glow)" opacity="0.70">
+      <text x="808" y="272" font-size="30" font-family="serif" transform="rotate(20, 823, 257)">🍁</text>
+    </g>
 
-    <text x="584" y="234" font-family="'Courier New', monospace" font-size="15" fill="#FF4500">  &gt;&gt;&gt;</text>
-    <text x="614" y="234" font-family="'Courier New', monospace" font-size="15" fill="#FFFFFF"> open_to_work()</text>
-    <rect x="756" y="221" width="9" height="16" rx="1" fill="#FF4500">
-      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
-    </rect>
+    <!-- Leaf 6 - tiny accent, corner -->
+    <g filter="url(#leaf-glow)" opacity="0.50">
+      <text x="858" y="210" font-size="18" font-family="serif" transform="rotate(-40, 867, 201)">🍁</text>
+    </g>
+
+    <!-- Leaf 7 - medium floating mid-right -->
+    <g filter="url(#leaf-glow)" opacity="0.75">
+      <text x="770" y="170" font-size="28" font-family="serif" transform="rotate(10, 784, 156)">🍁</text>
+    </g>
+
+    <!-- Leaf 8 - small top far right -->
+    <g filter="url(#leaf-glow)" opacity="0.55">
+      <text x="876" y="100" font-size="20" font-family="serif" transform="rotate(-15, 886, 90)">🍁</text>
+    </g>
+
   </g>
 </svg>
