@@ -29,7 +29,15 @@ Currently **open to work 🚀**
 
 ---
 
-## `03` — What I've Shipped
+## `01` — Expertise
+
+<div align="center">
+<img src="./expertise-cards.svg" width="100%" alt="Expertise in Backend, AI, and Databases"/>
+</div>
+
+---
+
+## `02` — What I've Shipped
 
 <br/>
 
@@ -72,7 +80,7 @@ Currently **open to work 🚀**
 
 ---
 
-## `02` — Stack
+## `03` — Stack
 
 <div align="center">
 
