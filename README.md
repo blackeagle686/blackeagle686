@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./automn-banner.png" style="border-radius: 30px;" width="100%" alt="Mohamed Alaa — AI Engineer & Backend Developer"/>
+<img src="./automn-banner.png" style="border-radius: 50px;" width="100%" alt="Mohamed Alaa — AI Engineer & Backend Developer"/>
 
 <br/>
 
@@ -29,15 +29,7 @@ Currently **open to work 🚀**
 
 ---
 
-## `01` — Expertise
-
-<div align="center">
-<img src="./expertise-cards.svg" width="100%" alt="Expertise in Backend, AI, and Databases"/>
-</div>
-
----
-
-## `02` — What I've Shipped
+## `01` — What I've Shipped
 
 <br/>
 
@@ -76,6 +68,16 @@ Currently **open to work 🚀**
 <a href="https://github.com/blackeagle686/IRYM_0.0">
 <img src="./cards/card-irym0.svg" width="49%" alt="IRYM 0 — Image Generation"/>
 </a>
+</div>
+
+
+
+---
+
+## `02` — Expertise
+
+<div align="center">
+<img src="./expertise-cards.svg" width="100%" alt="Expertise in Backend, AI, and Databases"/>
 </div>
 
 ---
