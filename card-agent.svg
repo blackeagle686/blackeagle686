@@ -1,0 +1,87 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+  <defs>
+    <linearGradient id="borderG2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF7A3D"/>
+      <stop offset="50%" stop-color="#FF4500"/>
+      <stop offset="100%" stop-color="#CC3300"/>
+    </linearGradient>
+    <linearGradient id="btnG2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF7A3D"/>
+      <stop offset="100%" stop-color="#CC3300"/>
+    </linearGradient>
+    <linearGradient id="topbar2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF7A3D"/>
+      <stop offset="60%" stop-color="#FF4500"/>
+      <stop offset="100%" stop-color="#0F0F18" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow2" cx="90%" cy="10%" r="40%">
+      <stop offset="0%" stop-color="#FF7A3D" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0F0F18" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="320" rx="18" fill="url(#borderG2)"/>
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="#0F0F18"/>
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glow2)"/>
+  <rect x="2" y="2" width="796" height="3" rx="2" fill="url(#topbar2)"/>
+
+  <!-- Badge row -->
+  <rect x="28" y="28" width="148" height="22" rx="11" fill="url(#btnG2)"/>
+  <text x="102" y="43" text-anchor="middle" font-size="10" font-weight="700" fill="#FFFFFF" letter-spacing="1">② FLAGSHIP AGENT</text>
+
+  <rect x="186" y="28" width="108" height="22" rx="11" fill="none" stroke="#FF7A3D" stroke-width="1" stroke-opacity="0.5"/>
+  <rect x="186" y="28" width="108" height="22" rx="11" fill="#FF7A3D" fill-opacity="0.08"/>
+  <text x="240" y="43" text-anchor="middle" font-size="10" font-weight="600" fill="#FF7A3D" letter-spacing="0.5">Autonomous AI</text>
+
+  <!-- Title -->
+  <text x="28" y="82" font-size="20" font-weight="700" fill="#F0EEE8">🤖 MyAgent v1.2 — Autonomous AI Agent</text>
+  <text x="28" y="105" font-size="11" fill="#666666">ReAct reasoning loop · Rust core · self-reflection · persistent memory · built-in tooling</text>
+
+  <!-- Feature boxes -->
+  <rect x="28" y="122" width="174" height="58" rx="8" fill="#FF7A3D" fill-opacity="0.06" stroke="#FF7A3D" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="44" cy="140" r="3.5" fill="#FF7A3D"/>
+  <text x="54" y="140" font-size="10" font-weight="700" fill="#FF9966" letter-spacing="0.5">REACT LOOP</text>
+  <text x="44" y="158" font-size="11" fill="#AAAAAA">Thought → Action</text>
+  <text x="44" y="172" font-size="11" fill="#AAAAAA">→ Observation</text>
+
+  <rect x="212" y="122" width="174" height="58" rx="8" fill="#FF7A3D" fill-opacity="0.06" stroke="#FF7A3D" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="228" cy="140" r="3.5" fill="#FF7A3D"/>
+  <text x="238" y="140" font-size="10" font-weight="700" fill="#FF9966" letter-spacing="0.5">RUST CORE</text>
+  <text x="228" y="158" font-size="11" fill="#AAAAAA">12.8× faster execution</text>
+  <text x="228" y="172" font-size="11" fill="#AAAAAA">via PyO3</text>
+
+  <rect x="396" y="122" width="174" height="58" rx="8" fill="#FF7A3D" fill-opacity="0.06" stroke="#FF7A3D" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="412" cy="140" r="3.5" fill="#FF7A3D"/>
+  <text x="422" y="140" font-size="10" font-weight="700" fill="#FF9966" letter-spacing="0.5">SELF-REFLECTION</text>
+  <text x="412" y="158" font-size="11" fill="#AAAAAA">Persistent learning</text>
+  <text x="412" y="172" font-size="11" fill="#AAAAAA">&amp; memory system</text>
+
+  <rect x="580" y="122" width="192" height="58" rx="8" fill="#FF7A3D" fill-opacity="0.06" stroke="#FF7A3D" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="596" cy="140" r="3.5" fill="#FF7A3D"/>
+  <text x="606" y="140" font-size="10" font-weight="700" fill="#FF9966" letter-spacing="0.5">BUILT-IN TOOLS</text>
+  <text x="596" y="158" font-size="11" fill="#AAAAAA">RAG · File System</text>
+  <text x="596" y="172" font-size="11" fill="#AAAAAA">· REPL</text>
+
+  <!-- Tags -->
+  <rect x="28" y="198" width="58" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="57" y="213" text-anchor="middle" font-size="11" fill="#888888">Python</text>
+
+  <rect x="96" y="198" width="44" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="118" y="213" text-anchor="middle" font-size="11" fill="#888888">Rust</text>
+
+  <rect x="150" y="198" width="44" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="172" y="213" text-anchor="middle" font-size="11" fill="#888888">PyO3</text>
+
+  <rect x="204" y="198" width="76" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="242" y="213" text-anchor="middle" font-size="11" fill="#888888">LangChain</text>
+
+  <rect x="290" y="198" width="76" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="328" y="213" text-anchor="middle" font-size="11" fill="#888888">ChromaDB</text>
+
+  <!-- Button -->
+  <rect x="28" y="240" width="160" height="38" rx="10" fill="url(#btnG2)"/>
+  <text x="108" y="264" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">View on GitHub →</text>
+
+  <line x1="28" y1="295" x2="772" y2="295" stroke="#FF7A3D" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="28" y="312" font-size="10" fill="#444444" letter-spacing="0.5">github.com/blackeagle686/MyAgent</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg width="390" height="240" viewBox="0 0 390 240" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+  <defs>
+    <linearGradient id="borderI" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#CC3300"/>
+      <stop offset="100%" stop-color="#FF7A3D"/>
+    </linearGradient>
+    <linearGradient id="btnI" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#CC3300"/>
+      <stop offset="100%" stop-color="#FF4500"/>
+    </linearGradient>
+    <linearGradient id="topI" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#CC3300"/>
+      <stop offset="70%" stop-color="#FF7A3D"/>
+      <stop offset="100%" stop-color="#0F0F18" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="390" height="240" rx="16" fill="url(#borderI)"/>
+  <rect x="2" y="2" width="386" height="236" rx="14" fill="#0F0F18"/>
+  <rect x="2" y="2" width="386" height="2.5" rx="2" fill="url(#topI)"/>
+
+  <!-- Rank tag -->
+  <rect x="20" y="20" width="122" height="18" rx="4" fill="#CC3300" fill-opacity="0.12" stroke="#CC3300" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="81" y="33" text-anchor="middle" font-size="9" font-weight="700" fill="#FF7A3D" letter-spacing="1">⑤ GENERATIVE AI</text>
+
+  <!-- Title -->
+  <text x="20" y="60" font-size="16" font-weight="700" fill="#F0EEE8">🖼️ IRYM 0 — Image Gen</text>
+  <text x="20" y="78" font-size="10" fill="#555555">Text → Image Diffusion Pipeline</text>
+
+  <!-- Features -->
+  <circle cx="29" cy="100" r="3" fill="#CC3300"/>
+  <text x="40" y="104" font-size="11" fill="#AAAAAA">Diffusion model pipeline</text>
+
+  <circle cx="29" cy="120" r="3" fill="#CC3300"/>
+  <text x="40" y="124" font-size="11" fill="#AAAAAA">Async non-blocking queue</text>
+
+  <circle cx="29" cy="140" r="3" fill="#CC3300"/>
+  <text x="40" y="144" font-size="11" fill="#AAAAAA">LLM prompt refinement</text>
+
+  <circle cx="29" cy="160" r="3" fill="#CC3300"/>
+  <text x="40" y="164" font-size="11" fill="#AAAAAA">PostgreSQL asset management</text>
+
+  <!-- Tags -->
+  <rect x="20" y="178" width="56" height="20" rx="5" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="48" y="192" text-anchor="middle" font-size="10" fill="#777777">FastAPI</text>
+
+  <rect x="84" y="178" width="88" height="20" rx="5" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="128" y="192" text-anchor="middle" font-size="10" fill="#777777">HuggingFace</text>
+
+  <rect x="180" y="178" width="84" height="20" rx="5" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="222" y="192" text-anchor="middle" font-size="10" fill="#777777">PostgreSQL</text>
+
+  <!-- Button -->
+  <rect x="20" y="206" width="140" height="26" rx="8" fill="url(#btnI)"/>
+  <text x="90" y="223" text-anchor="middle" font-size="11" font-weight="700" fill="#FFFFFF">View on GitHub →</text>
+</svg>

@@ -1,0 +1,87 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+  <defs>
+    <linearGradient id="borderG3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#CC3300"/>
+      <stop offset="50%" stop-color="#FF4500"/>
+      <stop offset="100%" stop-color="#882200"/>
+    </linearGradient>
+    <linearGradient id="btnG3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#CC3300"/>
+      <stop offset="100%" stop-color="#882200"/>
+    </linearGradient>
+    <linearGradient id="topbar3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#CC3300"/>
+      <stop offset="60%" stop-color="#FF4500"/>
+      <stop offset="100%" stop-color="#0F0F18" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow3" cx="90%" cy="10%" r="40%">
+      <stop offset="0%" stop-color="#CC3300" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0F0F18" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="320" rx="18" fill="url(#borderG3)"/>
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="#0F0F18"/>
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glow3)"/>
+  <rect x="2" y="2" width="796" height="3" rx="2" fill="url(#topbar3)"/>
+
+  <!-- Badge row -->
+  <rect x="28" y="28" width="122" height="22" rx="11" fill="url(#btnG3)"/>
+  <text x="89" y="43" text-anchor="middle" font-size="10" font-weight="700" fill="#FFFFFF" letter-spacing="1">③ AI RESEARCH</text>
+
+  <rect x="160" y="28" width="94" height="22" rx="11" fill="none" stroke="#CC3300" stroke-width="1" stroke-opacity="0.5"/>
+  <rect x="160" y="28" width="94" height="22" rx="11" fill="#CC3300" fill-opacity="0.08"/>
+  <text x="207" y="43" text-anchor="middle" font-size="10" font-weight="600" fill="#FF7A3D" letter-spacing="0.5">Medical AI</text>
+
+  <!-- Title -->
+  <text x="28" y="82" font-size="20" font-weight="700" fill="#F0EEE8">🔬 HDA-v3 — Cancer Detection System</text>
+  <text x="28" y="105" font-size="11" fill="#666666">Histopathology diagnostics · EfficientNet-B0 · Qwen2-VL clinical reasoning · Grad-CAM</text>
+
+  <!-- Feature boxes -->
+  <rect x="28" y="122" width="174" height="58" rx="8" fill="#CC3300" fill-opacity="0.06" stroke="#CC3300" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="44" cy="140" r="3.5" fill="#CC3300"/>
+  <text x="54" y="140" font-size="10" font-weight="700" fill="#FF7A3D" letter-spacing="0.5">CLASSIFICATION</text>
+  <text x="44" y="158" font-size="11" fill="#AAAAAA">Colon · Lung</text>
+  <text x="44" y="172" font-size="11" fill="#AAAAAA">· Squamous cells</text>
+
+  <rect x="212" y="122" width="174" height="58" rx="8" fill="#CC3300" fill-opacity="0.06" stroke="#CC3300" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="228" cy="140" r="3.5" fill="#CC3300"/>
+  <text x="238" y="140" font-size="10" font-weight="700" fill="#FF7A3D" letter-spacing="0.5">CLINICAL REPORTS</text>
+  <text x="228" y="158" font-size="11" fill="#AAAAAA">Qwen2-VL vision-</text>
+  <text x="228" y="172" font-size="11" fill="#AAAAAA">language reasoning</text>
+
+  <rect x="396" y="122" width="174" height="58" rx="8" fill="#CC3300" fill-opacity="0.06" stroke="#CC3300" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="412" cy="140" r="3.5" fill="#CC3300"/>
+  <text x="422" y="140" font-size="10" font-weight="700" fill="#FF7A3D" letter-spacing="0.5">MEDICAL RAG</text>
+  <text x="412" y="158" font-size="11" fill="#AAAAAA">ChromaDB + clinical</text>
+  <text x="412" y="172" font-size="11" fill="#AAAAAA">guideline retrieval</text>
+
+  <rect x="580" y="122" width="192" height="58" rx="8" fill="#CC3300" fill-opacity="0.06" stroke="#CC3300" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="596" cy="140" r="3.5" fill="#CC3300"/>
+  <text x="606" y="140" font-size="10" font-weight="700" fill="#FF7A3D" letter-spacing="0.5">EXPLAINABILITY</text>
+  <text x="596" y="158" font-size="11" fill="#AAAAAA">Grad-CAM visual</text>
+  <text x="596" y="172" font-size="11" fill="#AAAAAA">heatmaps</text>
+
+  <!-- Tags -->
+  <rect x="28" y="198" width="64" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="60" y="213" text-anchor="middle" font-size="11" fill="#888888">PyTorch</text>
+
+  <rect x="102" y="198" width="62" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="133" y="213" text-anchor="middle" font-size="11" fill="#888888">FastAPI</text>
+
+  <rect x="174" y="198" width="76" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="212" y="213" text-anchor="middle" font-size="11" fill="#888888">LangChain</text>
+
+  <rect x="260" y="198" width="76" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="298" y="213" text-anchor="middle" font-size="11" fill="#888888">ChromaDB</text>
+
+  <rect x="346" y="198" width="90" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="391" y="213" text-anchor="middle" font-size="11" fill="#888888">HuggingFace</text>
+
+  <!-- Button -->
+  <rect x="28" y="240" width="160" height="38" rx="10" fill="url(#btnG3)"/>
+  <text x="108" y="264" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">View on GitHub →</text>
+
+  <line x1="28" y1="295" x2="772" y2="295" stroke="#CC3300" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="28" y="312" font-size="10" fill="#444444" letter-spacing="0.5">github.com/blackeagle686/hda_v3</text>
+</svg>
