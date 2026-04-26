@@ -8,7 +8,7 @@
 
 ## I build AI systems that actually work in production.
 
-Backend engineer + AI developer based in **Egypt 🇪🇺**. I specialize in autonomous agents, RAG pipelines, and the infrastructure that makes LLMs reliable at scale — not just demos.
+Backend engineer + AI developer based in **Egypt 🇪🇬**. I specialize in autonomous agents, RAG pipelines, and the infrastructure that makes LLMs reliable at scale — not just demos.
 
 Currently open to work. 🚀
 
