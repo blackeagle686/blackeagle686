@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./automn-banner.png" width="100%" alt="Mohamed Alaa — AI Engineer & Backend Developer"/>
+<img src="./automn-banner.png" style="border-radius: 30px;" width="100%" alt="Mohamed Alaa — AI Engineer & Backend Developer"/>
 
 <br/>
 
