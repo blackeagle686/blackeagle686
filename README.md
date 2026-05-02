@@ -42,6 +42,15 @@ Currently **open to work 🚀**
 
 <br/>
 
+<!-- ② Ashborn-Agent -->
+<div align="center">
+<a href="https://github.com/blackeagle686/ashborn-agent">
+<img src="./cards/ashborn_card.svg" width="100%" alt="Ashborn Agent"/>
+</a>
+</div>
+
+<br/>
+
 <!-- ② MyAgent -->
 <div align="center">
 <a href="https://github.com/blackeagle686/MyAgent">

@@ -1,0 +1,118 @@
+<svg width="100%" viewBox="0 0 810 330" xmlns="http://www.w3.org/2000/svg" font-family="monospace" role="img" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Ashborn — Autonomous Developer Environment</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Card for the Ashborn project powered by the Phoenix AI Framework</desc>
+  <defs>
+    <linearGradient id="borderG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6B2B"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="btnG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B2B"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="topbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B2B"/>
+      <stop offset="55%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#0F0F1A" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="5%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#FF6B2B" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#0F0F1A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="95%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#0F0F1A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="badgeG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B2B"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="titleG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF9966"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Border gradient frame -->
+  <rect width="800" height="320" rx="18" fill="url(#borderG)" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Dark inner card -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="#0F0F1A" style="fill:rgb(15, 15, 26);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Ambient glows -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowLeft)" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowRight)" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Top accent line -->
+  <rect x="2" y="2" width="796" height="3" rx="2" fill="url(#topbar)" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Flame / Phoenix icon (decorative) -->
+  <g opacity="0.07" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.07;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <ellipse cx="680" cy="160" rx="90" ry="110" fill="url(#borderG)" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  </g>
+
+  <!-- Badge: FLAGSHIP ENV -->
+  <rect x="28" y="28" width="162" height="22" rx="11" fill="url(#badgeG)" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="109" y="43" text-anchor="middle" font-size="10" font-weight="700" fill="#FFFFFF" letter-spacing="1" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:700;text-anchor:middle;dominant-baseline:auto">⚡ FLAGSHIP ENV</text>
+
+  <!-- Badge: Autonomous -->
+  <rect x="200" y="28" width="118" height="22" rx="11" fill="none" stroke="#A855F7" stroke-width="1" stroke-opacity="0.5" style="fill:none;stroke:rgb(168, 85, 247);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="200" y="28" width="118" height="22" rx="11" fill="#A855F7" fill-opacity="0.08" style="fill:rgb(168, 85, 247);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="259" y="43" text-anchor="middle" font-size="10" font-weight="600" fill="#C084FC" letter-spacing="0.5" style="fill:rgb(192, 132, 252);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Phoenix AI Core</text>
+
+  <!-- Title -->
+  <text x="28" y="82" font-size="22" font-weight="700" fill="url(#titleG)" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:22px;font-weight:700;text-anchor:start;dominant-baseline:auto">Ashborn</text>
+  <text x="28" y="105" font-size="11" fill="#555566" style="fill:rgb(85, 85, 102);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">Parallel cognition · Think → Plan → Act → Reflect · Production-ready output</text>
+
+  <!-- Feature boxes: 4 columns -->
+
+  <!-- Box 1: Think -->
+  <rect x="28" y="122" width="166" height="58" rx="8" fill="#FF6B2B" fill-opacity="0.06" stroke="#FF6B2B" stroke-opacity="0.22" stroke-width="1" style="fill:rgb(255, 107, 43);stroke:rgb(255, 107, 43);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="44" cy="140" r="3.5" fill="#FF6B2B" style="fill:rgb(255, 107, 43);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="54" y="140" font-size="10" font-weight="700" fill="#FF9966" letter-spacing="0.5" style="fill:rgb(255, 153, 102);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:700;text-anchor:start;dominant-baseline:auto">THINK</text>
+  <text x="44" y="158" font-size="11" fill="#AAAAAA" style="fill:rgb(170, 170, 170);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">Deep reasoning &amp;</text>
+  <text x="44" y="172" font-size="11" fill="#AAAAAA" style="fill:rgb(170, 170, 170);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">context modeling</text>
+
+  <!-- Box 2: Plan -->
+  <rect x="204" y="122" width="166" height="58" rx="8" fill="#CC5FF0" fill-opacity="0.06" stroke="#CC5FF0" stroke-opacity="0.22" stroke-width="1" style="fill:rgb(204, 95, 240);stroke:rgb(204, 95, 240);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="220" cy="140" r="3.5" fill="#CC5FF0" style="fill:rgb(204, 95, 240);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="230" y="140" font-size="10" font-weight="700" fill="#C084FC" letter-spacing="0.5" style="fill:rgb(192, 132, 252);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:700;text-anchor:start;dominant-baseline:auto">PLAN</text>
+  <text x="220" y="158" font-size="11" fill="#AAAAAA" style="fill:rgb(170, 170, 170);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">Structured task</text>
+  <text x="220" y="172" font-size="11" fill="#AAAAAA" style="fill:rgb(170, 170, 170);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">decomposition</text>
+
+  <!-- Box 3: Act -->
+  <rect x="380" y="122" width="166" height="58" rx="8" fill="#A855F7" fill-opacity="0.06" stroke="#A855F7" stroke-opacity="0.22" stroke-width="1" style="fill:rgb(168, 85, 247);stroke:rgb(168, 85, 247);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="396" cy="140" r="3.5" fill="#A855F7" style="fill:rgb(168, 85, 247);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="406" y="140" font-size="10" font-weight="700" fill="#C084FC" letter-spacing="0.5" style="fill:rgb(192, 132, 252);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:700;text-anchor:start;dominant-baseline:auto">ACT</text>
+  <text x="396" y="158" font-size="11" fill="#AAAAAA" style="fill:rgb(170, 170, 170);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">Code generation</text>
+  <text x="396" y="172" font-size="11" fill="#AAAAAA" style="fill:rgb(170, 170, 170);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">&amp; tool execution</text>
+
+  <!-- Box 4: Reflect -->
+  <rect x="556" y="122" width="216" height="58" rx="8" fill="#7C3AED" fill-opacity="0.06" stroke="#7C3AED" stroke-opacity="0.22" stroke-width="1" style="fill:rgb(124, 58, 237);stroke:rgb(124, 58, 237);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="572" cy="140" r="3.5" fill="#7C3AED" style="fill:rgb(124, 58, 237);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="582" y="140" font-size="10" font-weight="700" fill="#C084FC" letter-spacing="0.5" style="fill:rgb(192, 132, 252);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:700;text-anchor:start;dominant-baseline:auto">REFLECT</text>
+  <text x="572" y="158" font-size="11" fill="#AAAAAA" style="fill:rgb(170, 170, 170);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">Self-evaluation &amp;</text>
+  <text x="572" y="172" font-size="11" fill="#AAAAAA" style="fill:rgb(170, 170, 170);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">adaptive refinement</text>
+
+  <!-- Tags -->
+  <rect x="28" y="198" width="76" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1" style="fill:rgb(255, 255, 255);stroke:rgb(255, 255, 255);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="66" y="213" text-anchor="middle" font-size="11" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Phoenix AI</text>
+
+  <rect x="114" y="198" width="72" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1" style="fill:rgb(255, 255, 255);stroke:rgb(255, 255, 255);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="150" y="213" text-anchor="middle" font-size="11" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Autonomous</text>
+
+  <rect x="196" y="198" width="56" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1" style="fill:rgb(255, 255, 255);stroke:rgb(255, 255, 255);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="224" y="213" text-anchor="middle" font-size="11" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Parallel</text>
+
+  <rect x="262" y="198" width="76" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1" style="fill:rgb(255, 255, 255);stroke:rgb(255, 255, 255);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="300" y="213" text-anchor="middle" font-size="11" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Production</text>
+
+  <rect x="348" y="198" width="60" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1" style="fill:rgb(255, 255, 255);stroke:rgb(255, 255, 255);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="378" y="213" text-anchor="middle" font-size="11" fill="#888888" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">DevEnv</text>
+
+  <!-- CTA Button -->
+  <rect x="28" y="240" width="175" height="38" rx="10" fill="url(#btnG)" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="115" y="264" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:700;text-anchor:middle;dominant-baseline:auto">View on GitHub →</text>
+
+  <!-- Divider + footer -->
+  <line x1="28" y1="295" x2="772" y2="295" stroke="#A855F7" stroke-opacity="0.12" stroke-width="1" style="fill:rgb(0, 0, 0);stroke:rgb(168, 85, 247);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="28" y="312" font-size="10" fill="#444455" letter-spacing="0.5" style="fill:rgb(68, 68, 85);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">github.com/ashborn/ashborn · Powered by Phoenix AI Framework</text>
+</svg>
