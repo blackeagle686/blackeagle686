@@ -51,15 +51,6 @@ Currently **open to work 🚀**
 
 <br/>
 
-<!-- ① hashira os -->
-<div align="center">
-<a href="#">
-<img src="./cards/hashira_os_card.svg" width="100%" alt="hashira os"/>
-</a>
-</div>
-
-<br/>
-
 <!-- ② Giyu-Agent -->
 <div align="center">
 <a href="https://github.com/blackeagle686/giyu-agent">
@@ -91,6 +82,15 @@ Currently **open to work 🚀**
 <div align="center">
 <a href="https://github.com/blackeagle686/hda_v3">
 <img src="./cards/card-hda.svg" width="100%" alt="HDA-v3 — Cancer Detection System"/>
+</a>
+</div>
+
+<br/>
+
+<!-- ① hashira os -->
+<div align="center">
+<a href="#">
+<img src="./cards/hashira_os_card.svg" width="100%" alt="hashira os"/>
 </a>
 </div>
 
