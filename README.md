@@ -51,10 +51,19 @@ Currently **open to work 🚀**
 
 <br/>
 
+<!-- ① hashira os -->
+<div align="center">
+<a href="#">
+<img src="./cards/hashira_os_card.svg" width="100%" alt="hashira os"/>
+</a>
+</div>
+
+<br/>
+
 <!-- ② Giyu-Agent -->
 <div align="center">
 <a href="https://github.com/blackeagle686/giyu-agent">
-<img src="./cards/giyu_card.svg" width="100%" alt="Ashborn Agent"/>
+<img src="./cards/giyu_card.svg" width="100%" alt="Giyu-Agent"/>
 </a>
 </div>
 
@@ -63,7 +72,7 @@ Currently **open to work 🚀**
 <!-- ② Shinbou-Agent -->
 <div align="center">
 <a href="https://github.com/blackeagle686/shinobu-agent">
-<img src="./cards/shinobu_card.svg" width="100%" alt="Ashborn Agent"/>
+<img src="./cards/shinobu_card.svg" width="100%" alt="Shinbou-Agent"/>
 </a>
 </div>
 
@@ -72,7 +81,7 @@ Currently **open to work 🚀**
 <!-- ② Rengoku-Agent -->
 <div align="center">
 <a href="https://github.com/blackeagle686/rengoku-agent">
-<img src="./cards/rengoku_card.svg" width="100%" alt="Ashborn Agent"/>
+<img src="./cards/rengoku_card.svg" width="100%" alt="Rengoku-Agent"/>
 </a>
 </div>
 
