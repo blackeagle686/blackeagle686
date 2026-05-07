@@ -1,0 +1,151 @@
+<svg width="100%" viewBox="0 0 810 330" xmlns="http://www.w3.org/2000/svg" font-family="monospace" role="img">
+  <title>Rengoku — Execution Powerhouse · Hashira-OS</title>
+  <desc>Card for the Rengoku agent — the system execution engine of Hashira-OS</desc>
+  <defs>
+    <linearGradient id="borderG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7F1D1D"/>
+      <stop offset="40%" stop-color="#DC2626"/>
+      <stop offset="75%" stop-color="#EA580C"/>
+      <stop offset="100%" stop-color="#CA8A04"/>
+    </linearGradient>
+    <linearGradient id="btnG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#991B1B"/>
+      <stop offset="60%" stop-color="#DC2626"/>
+      <stop offset="100%" stop-color="#EA580C"/>
+    </linearGradient>
+    <linearGradient id="topbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DC2626"/>
+      <stop offset="55%" stop-color="#EA580C"/>
+      <stop offset="100%" stop-color="#0F0804" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="5%" cy="50%" r="45%">
+      <stop offset="0%" stop-color="#DC2626" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#0F0804" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="95%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#F97316" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#0F0804" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCenter" cx="50%" cy="100%" r="50%">
+      <stop offset="0%" stop-color="#B91C1C" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#0F0804" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="badgeG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7F1D1D"/>
+      <stop offset="50%" stop-color="#DC2626"/>
+      <stop offset="100%" stop-color="#EA580C"/>
+    </linearGradient>
+    <linearGradient id="titleG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F87171"/>
+      <stop offset="60%" stop-color="#FB923C"/>
+      <stop offset="100%" stop-color="#FCD34D"/>
+    </linearGradient>
+    <linearGradient id="flameG" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#DC2626"/>
+      <stop offset="50%" stop-color="#EA580C"/>
+      <stop offset="100%" stop-color="#FCD34D" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Border gradient frame -->
+  <rect width="800" height="320" rx="18" fill="url(#borderG)"/>
+  <!-- Deep dark ember inner card -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="#0F0804"/>
+  <!-- Ambient glows -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowLeft)"/>
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowRight)"/>
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowCenter)"/>
+  <!-- Top accent line -->
+  <rect x="2" y="2" width="796" height="3" rx="2" fill="url(#topbar)"/>
+
+  <!-- Decorative flame silhouettes (background, right side) -->
+  <g opacity="0.06" fill="url(#flameG)">
+    <!-- Flame 1 - tall center -->
+    <ellipse cx="690" cy="120" rx="38" ry="90" transform="rotate(-6 690 120)"/>
+    <!-- Flame 2 - left -->
+    <ellipse cx="648" cy="140" rx="22" ry="65" transform="rotate(8 648 140)"/>
+    <!-- Flame 3 - right -->
+    <ellipse cx="730" cy="135" rx="20" ry="60" transform="rotate(-10 730 135)"/>
+  </g>
+  <!-- Ember sparks -->
+  <g opacity="0.12">
+    <circle cx="710" cy="55" r="2" fill="#FCD34D"/>
+    <circle cx="668" cy="40" r="1.5" fill="#FB923C"/>
+    <circle cx="748" cy="70" r="1.2" fill="#FCD34D"/>
+    <circle cx="730" cy="38" r="1" fill="#F97316"/>
+    <circle cx="685" cy="30" r="1.8" fill="#FCD34D"/>
+  </g>
+
+  <!-- Badge: POWERHOUSE -->
+  <rect x="28" y="28" width="162" height="22" rx="11" fill="url(#badgeG)"/>
+  <text x="109" y="43" text-anchor="middle" font-size="10" font-weight="700" fill="#FFFFFF" letter-spacing="1">🔥 POWERHOUSE</text>
+
+  <!-- Badge: Hashira-OS -->
+  <rect x="200" y="28" width="118" height="22" rx="11" fill="none" stroke="#DC2626" stroke-width="1" stroke-opacity="0.5"/>
+  <rect x="200" y="28" width="118" height="22" rx="11" fill="#DC2626" fill-opacity="0.08"/>
+  <text x="259" y="43" text-anchor="middle" font-size="10" font-weight="600" fill="#FCA5A5" letter-spacing="0.5">Hashira-OS</text>
+
+  <!-- Title -->
+  <text x="28" y="82" font-size="22" font-weight="700" fill="url(#titleG)">Rengoku</text>
+  <text x="28" y="105" font-size="11" fill="#3D1A0A">Parse → Optimize → Execute → Verify · Surgical system execution engine</text>
+
+  <!-- Feature boxes: 4 columns -->
+
+  <!-- Box 1: Parse -->
+  <rect x="28" y="122" width="166" height="58" rx="8" fill="#DC2626" fill-opacity="0.07" stroke="#DC2626" stroke-opacity="0.28" stroke-width="1"/>
+  <circle cx="44" cy="140" r="3.5" fill="#DC2626"/>
+  <text x="54" y="140" font-size="10" font-weight="700" fill="#F87171" letter-spacing="0.5">PARSE</text>
+  <text x="44" y="158" font-size="11" fill="#AAAAAA">High-level objective</text>
+  <text x="44" y="172" font-size="11" fill="#AAAAAA">decomposition</text>
+
+  <!-- Box 2: Optimize -->
+  <rect x="204" y="122" width="166" height="58" rx="8" fill="#B91C1C" fill-opacity="0.09" stroke="#B91C1C" stroke-opacity="0.30" stroke-width="1"/>
+  <circle cx="220" cy="140" r="3.5" fill="#B91C1C"/>
+  <text x="230" y="140" font-size="10" font-weight="700" fill="#FCA5A5" letter-spacing="0.5">OPTIMIZE</text>
+  <text x="220" y="158" font-size="11" fill="#AAAAAA">Safe &amp; efficient</text>
+  <text x="220" y="172" font-size="11" fill="#AAAAAA">execution planning</text>
+
+  <!-- Box 3: Execute -->
+  <rect x="380" y="122" width="166" height="58" rx="8" fill="#EA580C" fill-opacity="0.07" stroke="#EA580C" stroke-opacity="0.28" stroke-width="1"/>
+  <circle cx="396" cy="140" r="3.5" fill="#EA580C"/>
+  <text x="406" y="140" font-size="10" font-weight="700" fill="#FB923C" letter-spacing="0.5">EXECUTE</text>
+  <text x="396" y="158" font-size="11" fill="#AAAAAA">Surgical system</text>
+  <text x="396" y="172" font-size="11" fill="#AAAAAA">task execution</text>
+
+  <!-- Box 4: Verify -->
+  <rect x="556" y="122" width="216" height="58" rx="8" fill="#92400E" fill-opacity="0.12" stroke="#F97316" stroke-opacity="0.20" stroke-width="1"/>
+  <circle cx="572" cy="140" r="3.5" fill="#F97316"/>
+  <text x="582" y="140" font-size="10" font-weight="700" fill="#FCD34D" letter-spacing="0.5">VERIFY</text>
+  <text x="572" y="158" font-size="11" fill="#AAAAAA">Post-execution</text>
+  <text x="572" y="172" font-size="11" fill="#AAAAAA">integrity check</text>
+
+  <!-- Tags -->
+  <rect x="28" y="198" width="56" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="56" y="213" text-anchor="middle" font-size="11" fill="#888888">python</text>
+
+  <rect x="94" y="198" width="44" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="116" y="213" text-anchor="middle" font-size="11" fill="#888888">ai</text>
+
+  <rect x="148" y="198" width="62" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="179" y="213" text-anchor="middle" font-size="11" fill="#888888">runtime</text>
+
+  <rect x="220" y="198" width="94" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="267" y="213" text-anchor="middle" font-size="11" fill="#888888">optimization</text>
+
+  <rect x="324" y="198" width="78" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="363" y="213" text-anchor="middle" font-size="11" fill="#888888">ai-agents</text>
+
+  <rect x="412" y="198" width="52" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="438" y="213" text-anchor="middle" font-size="11" fill="#888888">llm</text>
+
+  <rect x="474" y="198" width="62" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="505" y="213" text-anchor="middle" font-size="11" fill="#888888">adapter</text>
+
+  <!-- CTA Button -->
+  <rect x="28" y="240" width="175" height="38" rx="10" fill="url(#btnG)"/>
+  <text x="115" y="264" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">View on GitHub →</text>
+
+  <!-- Divider + footer -->
+  <line x1="28" y1="295" x2="772" y2="295" stroke="#DC2626" stroke-opacity="0.14" stroke-width="1"/>
+  <text x="28" y="312" font-size="10" fill="#3D1A0A" letter-spacing="0.5">github.com/blackeagle686/rengoku-agent · Part of Hashira-OS · Execution Powerhouse</text>
+</svg>

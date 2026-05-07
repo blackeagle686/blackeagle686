@@ -51,10 +51,28 @@ Currently **open to work 🚀**
 
 <br/>
 
-<!-- ② MyAgent -->
+<!-- ② Giyu-Agent -->
 <div align="center">
-<a href="https://github.com/blackeagle686/MyAgent">
-<img src="./cards/card-agent.svg" width="100%" alt="MyAgent v1.2 — Autonomous AI Agent"/>
+<a href="https://github.com/blackeagle686/giyu-agent">
+<img src="./cards/giyu_card.svg" width="100%" alt="Ashborn Agent"/>
+</a>
+</div>
+
+<br/>
+
+<!-- ② Shinbou-Agent -->
+<div align="center">
+<a href="https://github.com/blackeagle686/shinobu-agent">
+<img src="./cards/shinobu_card.svg" width="100%" alt="Ashborn Agent"/>
+</a>
+</div>
+
+<br/>
+
+<!-- ② Rengoku-Agent -->
+<div align="center">
+<a href="https://github.com/blackeagle686/rengoku-agent">
+<img src="./cards/rengoku_card.svg" width="100%" alt="Ashborn Agent"/>
 </a>
 </div>
 

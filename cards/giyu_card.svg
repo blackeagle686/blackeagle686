@@ -1,0 +1,124 @@
+<svg width="100%" viewBox="0 0 810 330" xmlns="http://www.w3.org/2000/svg" font-family="monospace" role="img">
+  <title>Giyu — Diagnostic Sentinel · Hashira-OS</title>
+  <desc>Card for the Giyu agent — the system integrity guardian of Hashira-OS</desc>
+  <defs>
+    <linearGradient id="borderG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#1E3A5F"/>
+    </linearGradient>
+    <linearGradient id="btnG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0369A1"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="topbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="55%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#080E1A" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="5%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#080E1A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="95%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#080E1A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="badgeG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0369A1"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="titleG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#67E8F9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Border gradient frame -->
+  <rect width="800" height="320" rx="18" fill="url(#borderG)"/>
+  <!-- Dark navy inner card -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="#080E1A"/>
+  <!-- Ambient glows -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowLeft)"/>
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowRight)"/>
+  <!-- Top accent line -->
+  <rect x="2" y="2" width="796" height="3" rx="2" fill="url(#topbar)"/>
+
+  <!-- Decorative radar / pulse ring (sentinel motif) -->
+  <g opacity="0.05">
+    <ellipse cx="690" cy="160" rx="95" ry="95" fill="none" stroke="#22D3EE" stroke-width="28"/>
+  </g>
+  <g opacity="0.04">
+    <ellipse cx="690" cy="160" rx="60" ry="60" fill="none" stroke="#0EA5E9" stroke-width="18"/>
+  </g>
+
+  <!-- Badge: SENTINEL -->
+  <rect x="28" y="28" width="148" height="22" rx="11" fill="url(#badgeG)"/>
+  <text x="102" y="43" text-anchor="middle" font-size="10" font-weight="700" fill="#FFFFFF" letter-spacing="1">🛡 SENTINEL</text>
+
+  <!-- Badge: Hashira-OS -->
+  <rect x="186" y="28" width="118" height="22" rx="11" fill="none" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.5"/>
+  <rect x="186" y="28" width="118" height="22" rx="11" fill="#22D3EE" fill-opacity="0.07"/>
+  <text x="245" y="43" text-anchor="middle" font-size="10" font-weight="600" fill="#67E8F9" letter-spacing="0.5">Hashira-OS</text>
+
+  <!-- Title -->
+  <text x="28" y="82" font-size="22" font-weight="700" fill="url(#titleG)">Giyu</text>
+  <text x="28" y="105" font-size="11" fill="#2A3A50">Diagnostic sentinel · Monitor → Detect → Diagnose → Stabilize · System integrity</text>
+
+  <!-- Feature boxes: 4 columns -->
+
+  <!-- Box 1: Monitor -->
+  <rect x="28" y="122" width="166" height="58" rx="8" fill="#0EA5E9" fill-opacity="0.06" stroke="#0EA5E9" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="44" cy="140" r="3.5" fill="#0EA5E9"/>
+  <text x="54" y="140" font-size="10" font-weight="700" fill="#38BDF8" letter-spacing="0.5">MONITOR</text>
+  <text x="44" y="158" font-size="11" fill="#AAAAAA">Real-time system</text>
+  <text x="44" y="172" font-size="11" fill="#AAAAAA">health tracking</text>
+
+  <!-- Box 2: Detect -->
+  <rect x="204" y="122" width="166" height="58" rx="8" fill="#22D3EE" fill-opacity="0.06" stroke="#22D3EE" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="220" cy="140" r="3.5" fill="#22D3EE"/>
+  <text x="230" y="140" font-size="10" font-weight="700" fill="#67E8F9" letter-spacing="0.5">DETECT</text>
+  <text x="220" y="158" font-size="11" fill="#AAAAAA">Anomaly &amp; fault</text>
+  <text x="220" y="172" font-size="11" fill="#AAAAAA">recognition</text>
+
+  <!-- Box 3: Diagnose -->
+  <rect x="380" y="122" width="166" height="58" rx="8" fill="#0369A1" fill-opacity="0.10" stroke="#0369A1" stroke-opacity="0.30" stroke-width="1"/>
+  <circle cx="396" cy="140" r="3.5" fill="#0369A1"/>
+  <text x="406" y="140" font-size="10" font-weight="700" fill="#38BDF8" letter-spacing="0.5">DIAGNOSE</text>
+  <text x="396" y="158" font-size="11" fill="#AAAAAA">Hybrid cognitive</text>
+  <text x="396" y="172" font-size="11" fill="#AAAAAA">root-cause analysis</text>
+
+  <!-- Box 4: Stabilize -->
+  <rect x="556" y="122" width="216" height="58" rx="8" fill="#1E3A5F" fill-opacity="0.30" stroke="#22D3EE" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="572" cy="140" r="3.5" fill="#22D3EE"/>
+  <text x="582" y="140" font-size="10" font-weight="700" fill="#67E8F9" letter-spacing="0.5">STABILIZE</text>
+  <text x="572" y="158" font-size="11" fill="#AAAAAA">Deterministic safety</text>
+  <text x="572" y="172" font-size="11" fill="#AAAAAA">&amp; operational calm</text>
+
+  <!-- Tags -->
+  <rect x="28" y="198" width="56" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="56" y="213" text-anchor="middle" font-size="11" fill="#888888">python</text>
+
+  <rect x="94" y="198" width="44" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="116" y="213" text-anchor="middle" font-size="11" fill="#888888">ai</text>
+
+  <rect x="148" y="198" width="44" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="170" y="213" text-anchor="middle" font-size="11" fill="#888888">os</text>
+
+  <rect x="202" y="198" width="90" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="247" y="213" text-anchor="middle" font-size="11" fill="#888888">multi-agent</text>
+
+  <rect x="302" y="198" width="134" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="369" y="213" text-anchor="middle" font-size="11" fill="#888888">system-monitoring</text>
+
+  <rect x="446" y="198" width="108" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="500" y="213" text-anchor="middle" font-size="11" fill="#888888">os-agent</text>
+
+  <!-- CTA Button -->
+  <rect x="28" y="240" width="175" height="38" rx="10" fill="url(#btnG)"/>
+  <text x="115" y="264" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">View on GitHub →</text>
+
+  <!-- Divider + footer -->
+  <line x1="28" y1="295" x2="772" y2="295" stroke="#22D3EE" stroke-opacity="0.12" stroke-width="1"/>
+  <text x="28" y="312" font-size="10" fill="#1E3A5F" letter-spacing="0.5">github.com/blackeagle686/giyu-agent · Part of Hashira-OS · Diagnostic Sentinel</text>
+</svg>

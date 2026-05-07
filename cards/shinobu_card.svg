@@ -1,0 +1,124 @@
+<svg width="100%" viewBox="0 0 810 330" xmlns="http://www.w3.org/2000/svg" font-family="monospace" role="img">
+  <title>Shinobu — Human-Facing OS Agent · Hashira-OS</title>
+  <desc>Card for the Shinobu agent — the natural language bridge of Hashira-OS</desc>
+  <defs>
+    <linearGradient id="borderG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EC4899"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="btnG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="topbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EC4899"/>
+      <stop offset="55%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#0D0F1A" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="5%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#0D0F1A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="95%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#22C55E" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0D0F1A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="badgeG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="titleG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F472B6"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Border gradient frame -->
+  <rect width="800" height="320" rx="18" fill="url(#borderG)"/>
+  <!-- Dark inner card -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="#0D0F1A"/>
+  <!-- Ambient glows -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowLeft)"/>
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowRight)"/>
+  <!-- Top accent line -->
+  <rect x="2" y="2" width="796" height="3" rx="2" fill="url(#topbar)"/>
+
+  <!-- Decorative soft ellipse (butterfly / wisteria motif) -->
+  <g opacity="0.06">
+    <ellipse cx="680" cy="160" rx="90" ry="110" fill="url(#borderG)"/>
+  </g>
+
+  <!-- Badge: OS AGENT -->
+  <rect x="28" y="28" width="146" height="22" rx="11" fill="url(#badgeG)"/>
+  <text x="101" y="43" text-anchor="middle" font-size="10" font-weight="700" fill="#FFFFFF" letter-spacing="1">🌸 OS AGENT</text>
+
+  <!-- Badge: Hashira-OS -->
+  <rect x="184" y="28" width="118" height="22" rx="11" fill="none" stroke="#A855F7" stroke-width="1" stroke-opacity="0.5"/>
+  <rect x="184" y="28" width="118" height="22" rx="11" fill="#A855F7" fill-opacity="0.08"/>
+  <text x="243" y="43" text-anchor="middle" font-size="10" font-weight="600" fill="#C084FC" letter-spacing="0.5">Hashira-OS</text>
+
+  <!-- Title -->
+  <text x="28" y="82" font-size="22" font-weight="700" fill="url(#titleG)">Shinobu</text>
+  <text x="28" y="105" font-size="11" fill="#555566">Natural language · Understand → Plan → Bridge → Deliver · Human-facing OS agent</text>
+
+  <!-- Feature boxes: 4 columns -->
+
+  <!-- Box 1: Understand -->
+  <rect x="28" y="122" width="166" height="58" rx="8" fill="#EC4899" fill-opacity="0.06" stroke="#EC4899" stroke-opacity="0.22" stroke-width="1"/>
+  <circle cx="44" cy="140" r="3.5" fill="#EC4899"/>
+  <text x="54" y="140" font-size="10" font-weight="700" fill="#F472B6" letter-spacing="0.5">UNDERSTAND</text>
+  <text x="44" y="158" font-size="11" fill="#AAAAAA">Natural language</text>
+  <text x="44" y="172" font-size="11" fill="#AAAAAA">intent parsing</text>
+
+  <!-- Box 2: Plan -->
+  <rect x="204" y="122" width="166" height="58" rx="8" fill="#22C55E" fill-opacity="0.06" stroke="#22C55E" stroke-opacity="0.22" stroke-width="1"/>
+  <circle cx="220" cy="140" r="3.5" fill="#22C55E"/>
+  <text x="230" y="140" font-size="10" font-weight="700" fill="#4ADE80" letter-spacing="0.5">PLAN</text>
+  <text x="220" y="158" font-size="11" fill="#AAAAAA">Action sequencing</text>
+  <text x="220" y="172" font-size="11" fill="#AAAAAA">&amp; OS coordination</text>
+
+  <!-- Box 3: Bridge -->
+  <rect x="380" y="122" width="166" height="58" rx="8" fill="#A855F7" fill-opacity="0.06" stroke="#A855F7" stroke-opacity="0.22" stroke-width="1"/>
+  <circle cx="396" cy="140" r="3.5" fill="#A855F7"/>
+  <text x="406" y="140" font-size="10" font-weight="700" fill="#C084FC" letter-spacing="0.5">BRIDGE</text>
+  <text x="396" y="158" font-size="11" fill="#AAAAAA">Giyu + Rengoku</text>
+  <text x="396" y="172" font-size="11" fill="#AAAAAA">orchestration</text>
+
+  <!-- Box 4: Deliver -->
+  <rect x="556" y="122" width="216" height="58" rx="8" fill="#EC4899" fill-opacity="0.05" stroke="#EC4899" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="572" cy="140" r="3.5" fill="#EC4899"/>
+  <text x="582" y="140" font-size="10" font-weight="700" fill="#F472B6" letter-spacing="0.5">DELIVER</text>
+  <text x="572" y="158" font-size="11" fill="#AAAAAA">Friendly, clear &amp;</text>
+  <text x="572" y="172" font-size="11" fill="#AAAAAA">actionable results</text>
+
+  <!-- Tags -->
+  <rect x="28" y="198" width="56" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="56" y="213" text-anchor="middle" font-size="11" fill="#888888">python</text>
+
+  <rect x="94" y="198" width="44" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="116" y="213" text-anchor="middle" font-size="11" fill="#888888">ai</text>
+
+  <rect x="148" y="198" width="64" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="180" y="213" text-anchor="middle" font-size="11" fill="#888888">ai-agent</text>
+
+  <rect x="222" y="198" width="72" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="258" y="213" text-anchor="middle" font-size="11" fill="#888888">os-agent</text>
+
+  <rect x="304" y="198" width="52" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="330" y="213" text-anchor="middle" font-size="11" fill="#888888">tts</text>
+
+  <rect x="366" y="198" width="44" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="388" y="213" text-anchor="middle" font-size="11" fill="#888888">stt</text>
+
+  <rect x="420" y="198" width="76" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="458" y="213" text-anchor="middle" font-size="11" fill="#888888">chat-bot</text>
+
+  <!-- CTA Button -->
+  <rect x="28" y="240" width="175" height="38" rx="10" fill="url(#btnG)"/>
+  <text x="115" y="264" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">View on GitHub →</text>
+
+  <!-- Divider + footer -->
+  <line x1="28" y1="295" x2="772" y2="295" stroke="#A855F7" stroke-opacity="0.12" stroke-width="1"/>
+  <text x="28" y="312" font-size="10" fill="#444455" letter-spacing="0.5">github.com/blackeagle686/shinobu-agent · Part of Hashira-OS · Human-facing AI bridge</text>
+</svg>
