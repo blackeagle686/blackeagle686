@@ -25,7 +25,7 @@
 
 Backend engineer + AI developer based in **Egypt 🇪🇬**. I specialize in autonomous agents, RAG pipelines, and the infrastructure that makes LLMs reliable at scale — not just demos.
 
-Currently **open to work 🚀**
+Currently **open to work**
 
 ---
 
