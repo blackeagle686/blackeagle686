@@ -21,11 +21,13 @@
 
 ---
 
-## I build AI systems that actually work in production.
+## I'm building my AI EMPIRE.
 
-Backend engineer + AI developer based in **Egypt 🇪🇬**. I specialize in autonomous agents, RAG pipelines, and the infrastructure that makes LLMs reliable at scale — not just demos.
+I specialize in developing scalable, modular AI infrastructure that connects these components into production-oriented systems capable of solving real-world problems efficiently and reliably.
 
-Currently **open to work**
+My current focus goes beyond classical AI systems into next-generation computing paradigms, including quantum computing and photonic systems, exploring how they can reshape performance, scalability, and intelligence at the hardware level.
+
+I’m also actively building my own AI framework — designed to unify agentic workflows, retrieval systems, and model orchestration into a clean, extensible architecture that can evolve with new research and hardware advances.
 
 ---
 
