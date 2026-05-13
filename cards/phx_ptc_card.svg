@@ -1,0 +1,138 @@
+<svg width="100%" viewBox="0 0 810 330" xmlns="http://www.w3.org/2000/svg" font-family="monospace" role="img">
+  <title>PHX-PTC — Photonic Computing Platform</title>
+  <desc>README card for PHX-PTC, a C++17 photonic computing engine</desc>
+
+  <defs>
+    <!-- Photonic: warm gold → amber → rose (light/laser wavelength palette) -->
+    <linearGradient id="borderG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD000"/>
+      <stop offset="50%" stop-color="#FF6B00"/>
+      <stop offset="100%" stop-color="#E8003D"/>
+    </linearGradient>
+    <linearGradient id="btnG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD000"/>
+      <stop offset="100%" stop-color="#FF6B00"/>
+    </linearGradient>
+    <linearGradient id="topbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD000"/>
+      <stop offset="55%" stop-color="#FF6B00"/>
+      <stop offset="100%" stop-color="#0A0A0F" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="5%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#FFD000" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0A0A0F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="95%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#E8003D" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#0A0A0F" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="badgeG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD000"/>
+      <stop offset="100%" stop-color="#FF6B00"/>
+    </linearGradient>
+    <linearGradient id="titleG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFE066"/>
+      <stop offset="100%" stop-color="#FF9A5C"/>
+    </linearGradient>
+    <!-- Laser beam wave gradient -->
+    <linearGradient id="waveG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD000" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#FF6B00" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#E8003D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Border gradient frame -->
+  <rect width="800" height="320" rx="18" fill="url(#borderG)"/>
+  <!-- Dark inner card -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="#0A0A0F"/>
+  <!-- Ambient glows -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowLeft)"/>
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowRight)"/>
+  <!-- Top accent line -->
+  <rect x="2" y="2" width="796" height="3" rx="2" fill="url(#topbar)"/>
+
+  <!-- Decorative: interference wave pattern (MZI-style) -->
+  <g opacity="0.07" fill="none">
+    <!-- Main laser beam -->
+    <path d="M580,100 Q610,80 640,100 Q670,120 700,100 Q730,80 760,100" stroke="#FFD000" stroke-width="1.5"/>
+    <path d="M580,115 Q610,95 640,115 Q670,135 700,115 Q730,95 760,115" stroke="#FF9A00" stroke-width="1.2"/>
+    <path d="M580,130 Q610,110 640,130 Q670,150 700,130 Q730,110 760,130" stroke="#FF6B00" stroke-width="1"/>
+    <!-- MZI beam splitter lines -->
+    <line x1="620" y1="160" x2="660" y2="200" stroke="#FFD000" stroke-width="1"/>
+    <line x1="700" y1="160" x2="660" y2="200" stroke="#FF6B00" stroke-width="1"/>
+    <circle cx="620" cy="160" r="3" fill="#FFD000"/>
+    <circle cx="700" cy="160" r="3" fill="#FF6B00"/>
+    <circle cx="660" cy="200" r="4" fill="#FF9A00"/>
+    <!-- Outer glow rings for photon -->
+    <circle cx="660" cy="200" r="18" stroke="#FFD000" stroke-width="0.8"/>
+    <circle cx="660" cy="200" r="30" stroke="#FF6B00" stroke-width="0.5"/>
+  </g>
+
+  <!-- Badge: Phase 1 -->
+  <rect x="28" y="28" width="158" height="22" rx="11" fill="url(#badgeG)"/>
+  <text x="107" y="43" text-anchor="middle" font-size="10" font-weight="700" fill="#0A0A0F" letter-spacing="1">⚡ PHASE 1 ACTIVE</text>
+
+  <!-- Badge: Zero Deps -->
+  <rect x="196" y="28" width="102" height="22" rx="11" fill="none" stroke="#FF6B00" stroke-width="1" stroke-opacity="0.55"/>
+  <rect x="196" y="28" width="102" height="22" rx="11" fill="#FF6B00" fill-opacity="0.08"/>
+  <text x="247" y="43" text-anchor="middle" font-size="10" font-weight="600" fill="#FFAA66" letter-spacing="0.5">Zero Deps</text>
+
+  <!-- Title -->
+  <text x="28" y="82" font-size="22" font-weight="700" fill="url(#titleG)">PHX-PTC</text>
+  <text x="28" y="105" font-size="11" fill="#3A3020">Wave logic · MZI · SA · Bistability · XGM · Speed-of-light matmul</text>
+
+  <!-- Feature boxes: 4 columns mapping activations to photonic devices -->
+
+  <!-- Box 1: ReLU → SA -->
+  <rect x="28" y="122" width="175" height="58" rx="8" fill="#FFD000" fill-opacity="0.05" stroke="#FFD000" stroke-opacity="0.2" stroke-width="1"/>
+  <circle cx="44" cy="140" r="3.5" fill="#FFD000"/>
+  <text x="54" y="140" font-size="10" font-weight="700" fill="#FFE066" letter-spacing="0.5">RELU → SAT. ABS.</text>
+  <text x="44" y="158" font-size="11" fill="#AAAAAA">Intensity threshold</text>
+  <text x="44" y="172" font-size="11" fill="#AAAAAA">via bleaching</text>
+
+  <!-- Box 2: Sigmoid → MZI -->
+  <rect x="213" y="122" width="175" height="58" rx="8" fill="#FFAA00" fill-opacity="0.05" stroke="#FFAA00" stroke-opacity="0.2" stroke-width="1"/>
+  <circle cx="229" cy="140" r="3.5" fill="#FFAA00"/>
+  <text x="239" y="140" font-size="10" font-weight="700" fill="#FFD080" letter-spacing="0.5">SIGMOID → MZI</text>
+  <text x="229" y="158" font-size="11" fill="#AAAAAA">cos² interference</text>
+  <text x="229" y="172" font-size="11" fill="#AAAAAA">S-curve modulation</text>
+
+  <!-- Box 3: Tanh → Bistability -->
+  <rect x="398" y="122" width="175" height="58" rx="8" fill="#FF6B00" fill-opacity="0.05" stroke="#FF6B00" stroke-opacity="0.2" stroke-width="1"/>
+  <circle cx="414" cy="140" r="3.5" fill="#FF6B00"/>
+  <text x="424" y="140" font-size="10" font-weight="700" fill="#FFA066" letter-spacing="0.5">TANH → BISTABLE</text>
+  <text x="414" y="158" font-size="11" fill="#AAAAAA">Phase-flip optical</text>
+  <text x="414" y="172" font-size="11" fill="#AAAAAA">non-linearity [-1,+1]</text>
+
+  <!-- Box 4: Softmax → XGM -->
+  <rect x="583" y="122" width="189" height="58" rx="8" fill="#E8003D" fill-opacity="0.05" stroke="#E8003D" stroke-opacity="0.2" stroke-width="1"/>
+  <circle cx="599" cy="140" r="3.5" fill="#E8003D"/>
+  <text x="609" y="140" font-size="10" font-weight="700" fill="#FF6688" letter-spacing="0.5">SOFTMAX → XGM</text>
+  <text x="599" y="158" font-size="11" fill="#AAAAAA">Cross-gain laser</text>
+  <text x="599" y="172" font-size="11" fill="#AAAAAA">competition</text>
+
+  <!-- Tags -->
+  <rect x="28" y="198" width="56" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="56" y="213" text-anchor="middle" font-size="11" fill="#665533">C++17</text>
+
+  <rect x="94" y="198" width="52" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="120" y="213" text-anchor="middle" font-size="11" fill="#665533">CMake</text>
+
+  <rect x="156" y="198" width="68" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="190" y="213" text-anchor="middle" font-size="11" fill="#665533">Photonic</text>
+
+  <rect x="234" y="198" width="72" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="270" y="213" text-anchor="middle" font-size="11" fill="#665533">50+ Tests</text>
+
+  <rect x="316" y="198" width="68" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="350" y="213" text-anchor="middle" font-size="11" fill="#665533">MIT Lic.</text>
+
+  <!-- CTA Button -->
+  <rect x="28" y="240" width="175" height="38" rx="10" fill="url(#btnG)"/>
+  <text x="115" y="264" text-anchor="middle" font-size="12" font-weight="700" fill="#0A0A0F">View on GitHub →</text>
+
+  <!-- Divider + footer -->
+  <line x1="28" y1="295" x2="772" y2="295" stroke="#FF6B00" stroke-opacity="0.14" stroke-width="1"/>
+  <text x="28" y="312" font-size="10" fill="#332211" letter-spacing="0.5">github.com/phx-ptc · MIT License © 2026 Mohammed Alaa · Phase 5: Hybrid integration with phx-quantum</text>
+</svg>

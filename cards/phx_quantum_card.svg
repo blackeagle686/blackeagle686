@@ -1,0 +1,135 @@
+<svg width="100%" viewBox="0 0 810 330" xmlns="http://www.w3.org/2000/svg" font-family="monospace" role="img">
+  <title>PHX-Quantum — Pure CPU Quantum State Simulator</title>
+  <desc>README card for PHX-Quantum, a C++17 quantum computing simulator</desc>
+
+  <defs>
+    <!-- Quantum-themed: electric cyan → deep blue → violet -->
+    <linearGradient id="borderG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="50%" stop-color="#0066FF"/>
+      <stop offset="100%" stop-color="#6C3AED"/>
+    </linearGradient>
+    <linearGradient id="btnG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#0066FF"/>
+    </linearGradient>
+    <linearGradient id="topbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="55%" stop-color="#0066FF"/>
+      <stop offset="100%" stop-color="#080818" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="5%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#080818" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="95%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#6C3AED" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#080818" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="badgeG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#0066FF"/>
+    </linearGradient>
+    <linearGradient id="titleG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#7B9FFF"/>
+    </linearGradient>
+    <!-- Wave / qubit orbit decorative element -->
+    <radialGradient id="orbitGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#080818" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Border gradient frame -->
+  <rect width="800" height="320" rx="18" fill="url(#borderG)"/>
+  <!-- Dark inner card — deep space -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="#080818"/>
+  <!-- Ambient glows -->
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowLeft)"/>
+  <rect x="2" y="2" width="796" height="316" rx="16" fill="url(#glowRight)"/>
+  <!-- Top accent line -->
+  <rect x="2" y="2" width="796" height="3" rx="2" fill="url(#topbar)"/>
+
+  <!-- Decorative qubit orbit rings (background) -->
+  <g opacity="0.06">
+    <ellipse cx="690" cy="160" rx="95" ry="95" fill="none" stroke="#00D4FF" stroke-width="1.5"/>
+    <ellipse cx="690" cy="160" rx="65" ry="65" fill="none" stroke="#0066FF" stroke-width="1"/>
+    <ellipse cx="690" cy="160" rx="35" ry="35" fill="none" stroke="#6C3AED" stroke-width="1"/>
+    <circle cx="690" cy="65" r="5" fill="#00D4FF"/>
+    <circle cx="755" cy="195" r="3.5" fill="#0066FF"/>
+    <circle cx="645" cy="220" r="4" fill="#6C3AED"/>
+  </g>
+  <!-- Subtle quantum wave lines -->
+  <g opacity="0.04" stroke="#00D4FF" stroke-width="1" fill="none">
+    <path d="M500,80 Q540,60 580,80 Q620,100 660,80"/>
+    <path d="M500,95 Q540,75 580,95 Q620,115 660,95"/>
+  </g>
+
+  <!-- Badge: C++17 SIMULATOR -->
+  <rect x="28" y="28" width="162" height="22" rx="11" fill="url(#badgeG)"/>
+  <text x="109" y="43" text-anchor="middle" font-size="10" font-weight="700" fill="#FFFFFF" letter-spacing="1">⚛ C++17 · NO DEPS</text>
+
+  <!-- Badge: Pure CPU -->
+  <rect x="200" y="28" width="108" height="22" rx="11" fill="none" stroke="#0066FF" stroke-width="1" stroke-opacity="0.6"/>
+  <rect x="200" y="28" width="108" height="22" rx="11" fill="#0066FF" fill-opacity="0.09"/>
+  <text x="254" y="43" text-anchor="middle" font-size="10" font-weight="600" fill="#7BB8FF" letter-spacing="0.5">Pure CPU Sim</text>
+
+  <!-- Title -->
+  <text x="28" y="82" font-size="22" font-weight="700" fill="url(#titleG)">PHX-Quantum</text>
+  <text x="28" y="105" font-size="11" fill="#3A3A5C">1–16 qubits · Full gate set · Born rule measurement · Bell · GHZ · Teleportation</text>
+
+  <!-- Feature boxes: 4 columns -->
+
+  <!-- Box 1: Matrix Engine -->
+  <rect x="28" y="122" width="175" height="58" rx="8" fill="#00D4FF" fill-opacity="0.05" stroke="#00D4FF" stroke-opacity="0.22" stroke-width="1"/>
+  <circle cx="44" cy="140" r="3.5" fill="#00D4FF"/>
+  <text x="54" y="140" font-size="10" font-weight="700" fill="#00E5FF" letter-spacing="0.5">MATRIX ENGINE</text>
+  <text x="44" y="158" font-size="11" fill="#AAAAAA">Dense complex ops,</text>
+  <text x="44" y="172" font-size="11" fill="#AAAAAA">Kronecker &amp; adjoint</text>
+
+  <!-- Box 2: Quantum Gates -->
+  <rect x="213" y="122" width="175" height="58" rx="8" fill="#0099FF" fill-opacity="0.05" stroke="#0099FF" stroke-opacity="0.22" stroke-width="1"/>
+  <circle cx="229" cy="140" r="3.5" fill="#0099FF"/>
+  <text x="239" y="140" font-size="10" font-weight="700" fill="#7BB8FF" letter-spacing="0.5">QUANTUM GATES</text>
+  <text x="229" y="158" font-size="11" fill="#AAAAAA">H, X, Y, Z, Rx/Ry/Rz,</text>
+  <text x="229" y="172" font-size="11" fill="#AAAAAA">CNOT, SWAP, CZ</text>
+
+  <!-- Box 3: Circuit System -->
+  <rect x="398" y="122" width="175" height="58" rx="8" fill="#0066FF" fill-opacity="0.05" stroke="#0066FF" stroke-opacity="0.22" stroke-width="1"/>
+  <circle cx="414" cy="140" r="3.5" fill="#0066FF"/>
+  <text x="424" y="140" font-size="10" font-weight="700" fill="#7BB8FF" letter-spacing="0.5">CIRCUIT SYSTEM</text>
+  <text x="414" y="158" font-size="11" fill="#AAAAAA">Builder pattern, step</text>
+  <text x="414" y="172" font-size="11" fill="#AAAAAA">exec, qubit targeting</text>
+
+  <!-- Box 4: Measurement -->
+  <rect x="583" y="122" width="189" height="58" rx="8" fill="#6C3AED" fill-opacity="0.05" stroke="#6C3AED" stroke-opacity="0.22" stroke-width="1"/>
+  <circle cx="599" cy="140" r="3.5" fill="#6C3AED"/>
+  <text x="609" y="140" font-size="10" font-weight="700" fill="#A78BFA" letter-spacing="0.5">MEASUREMENT</text>
+  <text x="599" y="158" font-size="11" fill="#AAAAAA">Born rule collapse,</text>
+  <text x="599" y="172" font-size="11" fill="#AAAAAA">shot sim &amp; histogram</text>
+
+  <!-- Tags -->
+  <rect x="28" y="198" width="56" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="56" y="213" text-anchor="middle" font-size="11" fill="#666688">C++17</text>
+
+  <rect x="94" y="198" width="52" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="120" y="213" text-anchor="middle" font-size="11" fill="#666688">CMake</text>
+
+  <rect x="156" y="198" width="72" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="192" y="213" text-anchor="middle" font-size="11" fill="#666688">No Deps</text>
+
+  <rect x="238" y="198" width="76" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="276" y="213" text-anchor="middle" font-size="11" fill="#666688">1–16 Qubits</text>
+
+  <rect x="324" y="198" width="68" height="22" rx="6" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+  <text x="358" y="213" text-anchor="middle" font-size="11" fill="#666688">MIT Lic.</text>
+
+  <!-- CTA Button -->
+  <rect x="28" y="240" width="175" height="38" rx="10" fill="url(#btnG)"/>
+  <text x="115" y="264" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">View on GitHub →</text>
+
+  <!-- Divider + footer -->
+  <line x1="28" y1="295" x2="772" y2="295" stroke="#0066FF" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="28" y="312" font-size="10" fill="#333355" letter-spacing="0.5">github.com/phx-quantum · MIT License © 2026 Mohammed Alaa</text>
+</svg>

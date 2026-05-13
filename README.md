@@ -42,46 +42,28 @@ Currently **open to work**
 
 <br/>
 
+<!-- ② PHX-quantum -->
+<div align="center">
+<a href="https://github.com/blackeagle686/phx-quantum">
+<img src="./cards/phx_quantum_card.svg" width="100%" alt="phx-quantum"/>
+</a>
+</div>
+
+<br/>
+
+<!-- ② PHX-PTC -->
+<div align="center">
+<a href="https://github.com/blackeagle686/phx-ptc">
+<img src="./cards/phx_ptc_card.svg" width="100%" alt="phx ptc"/>
+</a>
+</div>
+
+<br/>
+
 <!-- ② Ashborn-Agent -->
 <div align="center">
 <a href="https://github.com/blackeagle686/ashborn-agent">
 <img src="./cards/ashborn_card.svg" width="100%" alt="Ashborn Agent"/>
-</a>
-</div>
-
-<br/>
-
-<!-- ② Giyu-Agent -->
-<div align="center">
-<a href="https://github.com/blackeagle686/giyu-agent">
-<img src="./cards/giyu_card.svg" width="100%" alt="Giyu-Agent"/>
-</a>
-</div>
-
-<br/>
-
-<!-- ② Shinbou-Agent -->
-<div align="center">
-<a href="https://github.com/blackeagle686/shinobu-agent">
-<img src="./cards/shinobu_card.svg" width="100%" alt="Shinbou-Agent"/>
-</a>
-</div>
-
-<br/>
-
-<!-- ② Rengoku-Agent -->
-<div align="center">
-<a href="https://github.com/blackeagle686/rengoku-agent">
-<img src="./cards/rengoku_card.svg" width="100%" alt="Rengoku-Agent"/>
-</a>
-</div>
-
-<br/>
-
-<!-- ③ HDA-v3 -->
-<div align="center">
-<a href="https://github.com/blackeagle686/hda_v3">
-<img src="./cards/card-hda.svg" width="100%" alt="HDA-v3 — Cancer Detection System"/>
 </a>
 </div>
 
@@ -95,18 +77,6 @@ Currently **open to work**
 </div>
 
 <br/>
-
-<!-- ④ & ⑤ Side by side -->
-<div align="center">
-<a href="https://github.com/blackeagle686/SMART_SHEET_-IRYM-1-">
-<img src="./cards/card-smartsheet.svg" width="49%" alt="SmartSheet IRYM-1"/>
-</a>
-<a href="https://github.com/blackeagle686/IRYM_0.0">
-<img src="./cards/card-irym0.svg" width="49%" alt="IRYM 0 — Image Generation"/>
-</a>
-</div>
-
-
 
 ---
 
