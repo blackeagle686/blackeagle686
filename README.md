@@ -21,13 +21,17 @@
 
 ---
 
-## I'm building my AI EMPIRE.
+## 🐦‍🔥 Building My AI EMPIRE.
 
-I specialize in developing scalable, modular AI infrastructure that connects these components into production-oriented systems capable of solving real-world problems efficiently and reliably.
+I specialize in designing scalable, modular AI infrastructure that transforms advanced research into production-ready systems capable of solving real-world problems efficiently, reliably, and at scale.
 
-My current focus goes beyond classical AI systems into next-generation computing paradigms, including quantum computing and photonic systems, exploring how they can reshape performance, scalability, and intelligence at the hardware level.
+My work spans across agentic AI systems, retrieval architectures, distributed inference pipelines, and orchestration frameworks — all focused on building intelligent systems that are extensible, maintainable, and future-proof.
 
-I’m also actively building my own AI framework — designed to unify agentic workflows, retrieval systems, and model orchestration into a clean, extensible architecture that can evolve with new research and hardware advances.
+Beyond traditional AI engineering, I’m deeply exploring next-generation computing paradigms including quantum computing, photonic neural systems, and AI-native hardware acceleration, researching how computation itself can evolve beyond conventional silicon limitations.
+
+I’m currently building my own AI framework — a unified ecosystem for agents, RAG pipelines, memory systems, model routing, orchestration, and multimodal intelligence — designed to adapt alongside emerging research, evolving models, and future hardware architectures.
+
+I believe the future of AI belongs to engineers who can bridge infrastructure, intelligence, and computing at every layer of the stack.
 
 ---
 
