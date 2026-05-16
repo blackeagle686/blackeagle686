@@ -8,7 +8,7 @@
 
 <br/>
 
-`I love autumn 🍁 and keeping things simple 🍂 — and if someone wants to leave, let them go 🧡.`
+`I love autumn 🍁 and keeping things simple 🍂 — and if someone wants to leave, let them go .`
 
 <br/><br/>
 
