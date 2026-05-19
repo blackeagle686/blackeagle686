@@ -7,10 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2500&pause=800&color=FF4500&center=true&vCenter=true&multiline=false&width=600&lines=pytorch+%7C+fastapi+%7C+langchain+%7C+chromadb+%7C+docker;training+models+%7C+shipping+backends+%7C+building+RAG+systems" alt="stack typing" />
 
 <br/>
-
-`I love autumn 🍁 and keeping things simple 🍂 — and if someone wants to leave, let them go .`
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=FF4500&labelColor=0A0A0F)](https://linkedin.com/in/mohammed-alaa-670867254)
 [![Email](https://img.shields.io/badge/-%20Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FF4500&labelColor=0A0A0F)](mailto:mathematecs1@gmail.com)
@@ -181,5 +178,9 @@ I believe the future of AI belongs to engineers who can bridge infrastructure, i
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=blackeagle686&color=FF4500&style=for-the-badge&label=Profile+Views)
+<br/>
 
+`I love autumn 🍁 and keeping things simple 🍂 — and if someone wants to leave, let them go .`
+
+<br/>
 </div>
