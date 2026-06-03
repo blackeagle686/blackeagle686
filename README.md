@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./automn-banner.png" style="border-radius: 50px;" width="100%" alt="Mohamed Alaa — AI Engineer & Backend Developer"/>
 
 <br/>
 
@@ -31,6 +30,7 @@ I’m currently building my own AI framework — a unified ecosystem for agents,
 I believe the future of AI belongs to engineers who can bridge infrastructure, intelligence, and computing at every layer of the stack.
 
 ---
+<img src="./automn-banner.png" style="border-radius: 50px;" width="100%" alt="Mohamed Alaa — AI Engineer & Backend Developer"/>
 
 ## `01` — What I've Shipped
 
