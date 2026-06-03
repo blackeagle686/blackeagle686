@@ -67,14 +67,16 @@ I believe the future of AI belongs to engineers who can bridge infrastructure, i
 </a>
 </div>
 
+
+<!--
 <br/>
 
-<!-- ① hashira os -->
 <div align="center">
 <a href="#">
 <img src="./cards/hashira_os_card.svg" width="100%" alt="hashira os"/>
 </a>
 </div>
+-->
 
 <br/>
 
