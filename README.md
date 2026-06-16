@@ -179,7 +179,7 @@ I believe the future of AI belongs to engineers who can bridge infrastructure, i
 ![Profile Views](https://komarev.com/ghpvc/?username=blackeagle686&color=FF4500&style=for-the-badge&label=Profile+Views)
 <br/>
 
-`I love autumn 🍁 and keeping things simple 🍂 — and if someone wants to leave, let them go ..`
+`I love autumn 🍁 and keeping things simple 🍂 — and if someone wants to leave, let them go .`
 
 <br/>
 </div>
