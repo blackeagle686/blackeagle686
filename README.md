@@ -2,15 +2,7 @@
 
 ## 🐦‍🔥 Building My AI EMPIRE.
 
-I specialize in designing scalable, modular AI infrastructure that transforms advanced research into production-ready systems capable of solving real-world problems efficiently, reliably, and at scale.
-
-My work spans across agentic AI systems, retrieval architectures, distributed inference pipelines, and orchestration frameworks — all focused on building intelligent systems that are extensible, maintainable, and future-proof.
-
-Beyond traditional AI engineering, I’m deeply exploring next-generation computing paradigms including quantum computing, photonic neural systems, and AI-native hardware acceleration, researching how computation itself can evolve beyond conventional silicon limitations.
-
-I’m currently building my own AI framework — a unified ecosystem for agents, RAG pipelines, memory systems, model routing, orchestration, and multimodal intelligence — designed to adapt alongside emerging research, evolving models, and future hardware architectures.
-
-I believe the future of AI belongs to engineers who can bridge infrastructure, intelligence, and computing at every layer of the stack.
+AI Infrastructure Engineer passionate about building scalable AI systems, vector databases, agent frameworks, and distributed inference pipelines. Exploring next-generation computing, including quantum computing and AI-native hardware, to advance the future of intelligent systems.
 
 ---
 
