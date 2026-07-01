@@ -103,6 +103,7 @@ AI Infrastructure Engineer passionate about building scalable AI systems, vector
 [![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0F?style=for-the-badge&logo=opencv&logoColor=FF7A3D)](https://opencv.org)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0A0F?style=for-the-badge&logo=huggingface&logoColor=FF4500)](https://huggingface.co)
 [![LangChain](https://img.shields.io/badge/LangChain-0A0A0F?style=for-the-badge&logo=chainlink&logoColor=FF9966)](https://langchain.com)
+[![ONNX](https://img.shields.io/badge/ONNX-0A0A0F?style=for-the-badge&logo=onnx&logoColor=FF7A3D)](https://onnx.ai)
 
 **━━━━━━━━━━━━━━━━ Backend & APIs ━━━━━━━━━━━━━━━━**
 
@@ -110,6 +111,8 @@ AI Infrastructure Engineer passionate about building scalable AI systems, vector
 [![Django](https://img.shields.io/badge/Django-0A0A0F?style=for-the-badge&logo=django&logoColor=FF7A3D)](https://djangoproject.com)
 [![Flask](https://img.shields.io/badge/Flask-0A0A0F?style=for-the-badge&logo=flask&logoColor=FF9966)](https://flask.palletsprojects.com)
 [![GraphQL](https://img.shields.io/badge/GraphQL-0A0A0F?style=for-the-badge&logo=graphql&logoColor=FF4500)](https://graphql.org)
+[![Axum](https://img.shields.io/badge/Axum-0A0A0F?style=for-the-badge&logo=rust&logoColor=F74C00)](https://github.com/tokio-rs/axum)
+[![Tokio](https://img.shields.io/badge/Tokio-0A0A0F?style=for-the-badge&logo=rust&logoColor=F74C00)](https://tokio.rs)
 
 **━━━━━━━━━━━━━━━━ Databases & Vector DBs ━━━━━━━━━━━━━━━━**
 
